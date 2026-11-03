@@ -7,7 +7,7 @@ import plotly.graph_objects as go
 # Configuración general de la página
 st.set_page_config(
     page_title="SBC-NCFO E-Commerce Trujillo 2026 | UNT",
-    page_icon="🧠",
+    page_icon="",
     layout="wide"
 )
 
@@ -89,12 +89,12 @@ if seccion == "0. Prototipo Interactivo E-commerce (UI/UX)":
 
         if fila_u["purchase_history_count"] == 0:
             st.warning(
-                "❄️ **Escenario Arranque en Frío Detectado (`Historial = 0 compras`)**: "
+                "**Escenario Arranque en Frío Detectado (`Historial = 0 compras`)**: "
                 "El Filtrado Colaborativo clásico colapsa por falta de vecinos cercanos (NN < 4). "
                 "El motor **SBC-NCFO** activa la inferencia deductiva sobre el grafo OWL 2."
             )
         else:
-            st.success(f" **Cliente con Historial Activo:** {fila_u['purchase_history_count']} compras previas registradas.")
+            st.success(f"**Cliente con Historial Activo:** {fila_u['purchase_history_count']} compras previas registradas.")
 
     with col_busqueda:
         st.markdown("#### 2. Consulta Semántica y Reglas de Producción Lógicas (LPO)")
@@ -180,23 +180,23 @@ if seccion == "0. Prototipo Interactivo E-commerce (UI/UX)":
 
         st.markdown(f"##### Top {len(df_top)} Productos Recomendados (Inferencia Deductiva + Ranking NCFO)")
         for _, prod in df_top.iterrows():
-            with st.expander(f" {prod['product_name']} — S/ {prod['price_pen']:,.2f} | Score NCFO: {prod['prob_ncfo']*100:.1f}%", expanded=True):
+            with st.expander(f"{prod['product_name']} — S/ {prod['price_pen']:,.2f} | Score NCFO: {prod['prob_ncfo']*100:.1f}%", expanded=True):
                 c1, c2, c3 = st.columns([2, 1, 1])
                 with c1:
                     st.write(f"**Categoría Taxonómica (TBox):** `{prod['main_category']} ⊑ {prod['sub_category']}`")
                     st.write(f"**Especificaciones (ABox):** {prod['combined_description']}")
                 with c2:
                     st.metric("Precio Unitario", f"S/ {prod['price_pen']:,.2f}")
-                    st.write(f" **Calificación:** {prod['avg_rating']} / 5.0 ({prod['review_count']} reseñas)")
+                    st.write(f"**Calificación:** {prod['avg_rating']} / 5.0 ({prod['review_count']} reseñas)")
                 with c3:
                     st.metric("Probabilidad NCFO", f"{prod['prob_ncfo']*100:.2f}%")
-                    st.caption(" **Trazabilidad XAI:** Cumple `SatisfaceRestriccionesDuras(x,y)` ∧ `EnStock(y)`")
+                    st.caption("**Trazabilidad XAI:** Cumple `SatisfaceRestriccionesDuras(x,y)` ∧ `EnStock(y)`")
 
 # ==============================================================================
 # SECCIÓN 1: OBJETIVO ESPECÍFICO 1 (DATASET Y ONTOLOGÍA)
 # ==============================================================================
-elif seccion == " Dataset y Ontología OWL 2":
-    st.subheader(" Sección V-A: Construcción, Preprocesamiento y Descripción Final del Dataset")
+elif seccion == "1. Obj. Específico 1: Dataset y Ontología OWL 2":
+    st.subheader("Sección V-A: Construcción, Preprocesamiento y Descripción Final del Dataset")
     st.markdown(
         "**Logro del Objetivo Específico 1:** *Construir un dataset estandarizado de comercio electrónico "
         "enriquecido semánticamente a partir de la adquisición sistemática del conocimiento y su formalización "
@@ -237,8 +237,8 @@ elif seccion == " Dataset y Ontología OWL 2":
 # ==============================================================================
 # SECCIÓN 2: OBJETIVO ESPECÍFICO 2 (ARQUITECTURA NCFO)
 # ==============================================================================
-elif seccion == " Arquitectura Híbrida NCFO":
-    st.subheader(" Sección V-B: Configuración de la Máquina de Aprendizaje Híbrida NCFO")
+elif seccion == "2. Obj. Específico 2: Arquitectura Híbrida NCFO":
+    st.subheader("Sección V-B: Configuración de la Máquina de Aprendizaje Híbrida NCFO")
     st.markdown(
         "**Logro del Objetivo Específico 2:** *Configurar la arquitectura topológica e hiperparámetros "
         "de la máquina de aprendizaje híbrida (NCFO), integrando las representaciones del motor de inferencia "
@@ -248,7 +248,7 @@ elif seccion == " Arquitectura Híbrida NCFO":
     c1, c2, c3 = st.columns(3)
     with c1:
         st.info(
-            "### 1️ Rama Lineal: GMF (`Φ_GMF`)\n"
+            "### 1. Rama Lineal: GMF (`Φ_GMF`)\n"
             "- **Entradas:** `user_id_input` (None, 1) y `item_id_input` (None, 1)\n"
             "- **Capas Embedding:** Dimensión latente $d_e = 128$\n"
             "- **Operación:** Producto interno elemento a elemento (`Multiply`)\n"
@@ -256,7 +256,7 @@ elif seccion == " Arquitectura Híbrida NCFO":
         )
     with c2:
         st.warning(
-            "### 2️ Rama No Lineal: MLP (`Φ_NCF`)\n"
+            "### 2. Rama No Lineal: MLP (`Φ_NCF`)\n"
             "- **Entrada Concatenada:** Embeddings Usuario + Ítem (256 unidades)\n"
             "- **Topología Piramidal (6 Capas Densas):** `128 → 64 → 32 → 16 → 8 → 4` neuronas\n"
             "- **Activación y Regularización:** `ReLU` + `Dropout(0.5)` en cada capa\n"
@@ -264,7 +264,7 @@ elif seccion == " Arquitectura Híbrida NCFO":
         )
     with c3:
         st.success(
-            "### 3️ Rama Ontológica: UF-Net (`Φ_UF`)\n"
+            "### 3. Rama Ontológica: UF-Net (`Φ_UF`)\n"
             "- **Entrada:** `user_onto_features` con los **12 atributos semánticos**\n"
             "- **Expansión (2 Capas):** `256 → 1024` neuronas (`ReLU` + `Dropout(0.5)`)\n"
             "- **Abstracción (6 Capas):** `128 → 64 → 32 → 16 → 8 → 4` neuronas\n"
@@ -298,14 +298,14 @@ elif seccion == " Arquitectura Híbrida NCFO":
 # ==============================================================================
 # SECCIÓN 3: OBJETIVO ESPECÍFICO 3 (CÓDIGO PYTHON Y ENTRENAMIENTO)
 # ==============================================================================
-elif seccion == " Entrenamiento y Código Python":
-    st.subheader(" Sección V-C: Programa que Entrena y Valida la Máquina de Aprendizaje")
+elif seccion == "3. Obj. Específico 3: Entrenamiento y Código Python":
+    st.subheader("Sección V-C: Programa que Entrena y Valida la Máquina de Aprendizaje")
     st.markdown(
         "**Logro del Objetivo Específico 3:** *Desarrollar el programa computacional en lenguaje Python "
         "que ejecuta la inferencia lógica sobre el grafo ontológico, entrena supervisadamente y valida la máquina NCFO.*"
     )
 
-    if st.button(" Ejecutar Verificación en Vivo sobre `dataset_ecommerce_trujillo.csv`"):
+    if st.button("Ejecutar Verificación en Vivo sobre `dataset_ecommerce_trujillo.csv`"):
         with st.spinner("Cargando 25,000 interacciones, aplicando filtro ontológico OWL 2 y partición 70/30..."):
             atributos_uf = [
                 'price_pen', 'avg_rating', 'user_budget', 'onto_compat',
@@ -313,7 +313,7 @@ elif seccion == " Entrenamiento y Código Python":
                 'subcat_encoded', 'stock_available', 'warranty_score', 'review_norm'
             ]
             st.success(
-                f" **Dataset verificado con éxito:** {len(df_inter):,} filas cargadas | "
+                f"**Dataset verificado con éxito:** {len(df_inter):,} filas cargadas | "
                 f"**Entrenamiento (70%):** 17,500 instancias | **Validación ciega (30%):** 7,500 instancias."
             )
             st.write("**Muestra de tensores de entrada normalizados (`X_uf` - 12 dimensiones):**")
@@ -340,8 +340,8 @@ y_pred_final = ((prob_pred >= 0.50) & filtro_logico_owl).astype(int)""", languag
 # ==============================================================================
 # SECCIÓN 4: OBJETIVO ESPECÍFICO 4 (MATRIZ DE CONFUSIÓN Y MÉTRICAS)
 # ==============================================================================
-elif seccion == " Matriz de Confusión y Métricas":
-    st.subheader(" Sección V-D: Indicadores de Evaluación, Matriz de Confusión y Pruebas UI/UX")
+elif seccion == "4. Obj. Específico 4: Matriz de Confusión y Métricas":
+    st.subheader("Sección V-D: Indicadores de Evaluación, Matriz de Confusión y Pruebas UI/UX")
     st.markdown(
         "**Logro del Objetivo Específico 4:** *Evaluar el rendimiento integral del sistema inteligente "
         "determinando Exactitud, Precisión, Exhaustividad y F1-Score mediante la matriz de confusión ($N_{TEST} = 7,500$).* "
