@@ -1,0 +1,1001 @@
+user_id,profile_type,user_budget,required_tech_tier,preferred_brand,preferred_category,purchase_history_count
+1,Arquitecto CAD / Renderizado 3D Lumion,4500.0,0.85,Lenovo,Laptops,0
+2,Gamer Entusiasta eSports Trujillo,4600.0,0.88,ASUS,Laptops,8
+3,Estudiante Ingeniería UNT (Arranque en Frío),1500.0,0.8,ASUS,Placas Madre,0
+4,Arquitecto CAD / Renderizado 3D Lumion,3645.66,0.91,ASUS,Monitores,5
+5,Estudiante Ingeniería UNT (Arranque en Frío),4557.92,0.62,NVIDIA,Periféricos,0
+6,Gestor PYME Retail / Ofimática,2338.14,0.57,HP,Monitores,6
+7,Diseñador Gráfico & Multimedia,1730.06,0.47,Intel,Laptops,5
+8,Analista de Datos / Desarrollador IA,4211.23,0.93,Intel,Procesadores,20
+9,Gestor PYME Retail / Ofimática,2259.53,0.44,HP,Memorias RAM,10
+10,Analista de Datos / Desarrollador IA,6314.94,0.73,NVIDIA,Tarjetas Gráficas,23
+11,Arquitecto CAD / Renderizado 3D Lumion,5462.79,0.98,Logitech,Procesadores,23
+12,Analista de Datos / Desarrollador IA,6571.57,0.86,ASUS,Monitores,5
+13,Gestor PYME Retail / Ofimática,1879.65,0.34,Dell,Laptops,6
+14,Gestor PYME Retail / Ofimática,812.86,0.63,HP,Procesadores,10
+15,Estudiante Ingeniería UNT (Arranque en Frío),4329.74,0.79,HP,Periféricos,0
+16,Gamer Entusiasta eSports Trujillo,10776.69,0.75,Lenovo,Laptops,7
+17,Gamer Entusiasta eSports Trujillo,8228.84,0.88,ASUS,Periféricos,13
+18,Gestor PYME Retail / Ofimática,2864.57,0.55,Dell,Tarjetas Gráficas,12
+19,Gamer Entusiasta eSports Trujillo,10475.18,0.71,NVIDIA,Laptops,6
+20,Arquitecto CAD / Renderizado 3D Lumion,9703.39,0.7,Kingston,Tarjetas Gráficas,8
+21,Analista de Datos / Desarrollador IA,10250.48,0.94,AMD,Procesadores,23
+22,Gamer Entusiasta eSports Trujillo,8491.38,0.89,Logitech,Periféricos,24
+23,Arquitecto CAD / Renderizado 3D Lumion,3915.81,0.91,ASUS,Monitores,6
+24,Gestor PYME Retail / Ofimática,2534.79,0.36,Dell,Memorias RAM,13
+25,Estudiante Ingeniería UNT (Arranque en Frío),4121.01,0.57,AMD,Procesadores,0
+26,Estudiante Ingeniería UNT (Arranque en Frío),3269.72,0.65,Gigabyte,Tarjetas Gráficas,0
+27,Estudiante Ingeniería UNT (Arranque en Frío),1599.0,0.75,Gigabyte,Monitores,0
+28,Estudiante Ingeniería UNT (Arranque en Frío),4612.44,0.55,Dell,Placas Madre,0
+29,Gamer Entusiasta eSports Trujillo,5798.71,0.9,Lenovo,Placas Madre,13
+30,Analista de Datos / Desarrollador IA,6495.46,0.76,AMD,Placas Madre,19
+31,Gamer Entusiasta eSports Trujillo,3573.45,0.76,Corsair,Periféricos,16
+32,Arquitecto CAD / Renderizado 3D Lumion,11206.39,0.84,NVIDIA,Procesadores,5
+33,Estudiante Ingeniería UNT (Arranque en Frío),3083.75,0.59,Logitech,Laptops,0
+34,Gamer Entusiasta eSports Trujillo,7443.9,0.7,Corsair,Memorias RAM,13
+35,Gamer Entusiasta eSports Trujillo,7605.74,0.97,Logitech,Monitores,8
+36,Arquitecto CAD / Renderizado 3D Lumion,8884.62,0.74,Logitech,Memorias RAM,3
+37,Arquitecto CAD / Renderizado 3D Lumion,7528.09,0.83,Dell,Monitores,7
+38,Estudiante Ingeniería UNT (Arranque en Frío),4504.87,0.81,NVIDIA,Periféricos,0
+39,Estudiante Ingeniería UNT (Arranque en Frío),3722.88,0.73,ASUS,Procesadores,0
+40,Estudiante Ingeniería UNT (Arranque en Frío),4788.85,0.84,NVIDIA,Tarjetas Gráficas,0
+41,Analista de Datos / Desarrollador IA,10400.58,0.72,MSI,Procesadores,23
+42,Arquitecto CAD / Renderizado 3D Lumion,4983.14,0.77,Intel,Placas Madre,15
+43,Estudiante Ingeniería UNT (Arranque en Frío),1902.61,0.65,MSI,Tarjetas Gráficas,0
+44,Gamer Entusiasta eSports Trujillo,3665.12,0.95,Lenovo,Memorias RAM,19
+45,Gamer Entusiasta eSports Trujillo,5540.91,0.82,Dell,Procesadores,14
+46,Gamer Entusiasta eSports Trujillo,4390.11,0.72,Kingston,Laptops,10
+47,Estudiante Ingeniería UNT (Arranque en Frío),3092.75,0.76,Intel,Laptops,0
+48,Gestor PYME Retail / Ofimática,3180.16,0.36,Gigabyte,Periféricos,1
+49,Analista de Datos / Desarrollador IA,5116.6,0.72,Logitech,Memorias RAM,15
+50,Gamer Entusiasta eSports Trujillo,11036.08,0.75,Logitech,Tarjetas Gráficas,7
+51,Gamer Entusiasta eSports Trujillo,8142.74,0.78,Dell,Placas Madre,16
+52,Estudiante Ingeniería UNT (Arranque en Frío),3595.7,0.61,Corsair,Laptops,0
+53,Gestor PYME Retail / Ofimática,1607.25,0.34,ASUS,Laptops,3
+54,Gamer Entusiasta eSports Trujillo,6911.69,0.86,Corsair,Procesadores,18
+55,Estudiante Ingeniería UNT (Arranque en Frío),3790.15,0.82,Lenovo,Monitores,0
+56,Arquitecto CAD / Renderizado 3D Lumion,5877.87,0.87,Dell,Periféricos,18
+57,Diseñador Gráfico & Multimedia,2502.55,0.56,Logitech,Memorias RAM,6
+58,Gamer Entusiasta eSports Trujillo,3843.85,0.82,Lenovo,Laptops,14
+59,Arquitecto CAD / Renderizado 3D Lumion,3653.16,0.92,NVIDIA,Procesadores,22
+60,Analista de Datos / Desarrollador IA,10452.95,0.83,NVIDIA,Tarjetas Gráficas,18
+61,Arquitecto CAD / Renderizado 3D Lumion,6509.39,0.94,Corsair,Monitores,7
+62,Gamer Entusiasta eSports Trujillo,5660.5,0.9,ASUS,Laptops,14
+63,Analista de Datos / Desarrollador IA,4028.7,0.91,NVIDIA,Periféricos,10
+64,Gestor PYME Retail / Ofimática,1144.1,0.58,HP,Memorias RAM,11
+65,Analista de Datos / Desarrollador IA,11888.4,0.75,Corsair,Procesadores,20
+66,Gamer Entusiasta eSports Trujillo,4827.65,0.78,AMD,Tarjetas Gráficas,10
+67,Gestor PYME Retail / Ofimática,2362.51,0.51,Kingston,Procesadores,7
+68,Gestor PYME Retail / Ofimática,2336.48,0.39,NVIDIA,Placas Madre,14
+69,Gamer Entusiasta eSports Trujillo,3575.61,0.82,MSI,Memorias RAM,19
+70,Estudiante Ingeniería UNT (Arranque en Frío),1844.32,0.65,NVIDIA,Memorias RAM,0
+71,Gestor PYME Retail / Ofimática,2222.98,0.47,Intel,Monitores,8
+72,Estudiante Ingeniería UNT (Arranque en Frío),3248.82,0.62,HP,Laptops,0
+73,Estudiante Ingeniería UNT (Arranque en Frío),2138.31,0.76,Logitech,Monitores,0
+74,Arquitecto CAD / Renderizado 3D Lumion,11701.38,0.75,Dell,Procesadores,5
+75,Arquitecto CAD / Renderizado 3D Lumion,7478.28,0.88,AMD,Tarjetas Gráficas,18
+76,Gestor PYME Retail / Ofimática,1268.21,0.58,Lenovo,Laptops,5
+77,Gamer Entusiasta eSports Trujillo,11325.68,0.8,MSI,Memorias RAM,19
+78,Estudiante Ingeniería UNT (Arranque en Frío),4677.37,0.63,MSI,Procesadores,0
+79,Analista de Datos / Desarrollador IA,10102.93,0.75,HP,Tarjetas Gráficas,21
+80,Analista de Datos / Desarrollador IA,11630.51,0.92,Intel,Monitores,3
+81,Gestor PYME Retail / Ofimática,2773.05,0.4,Logitech,Memorias RAM,8
+82,Gamer Entusiasta eSports Trujillo,3504.75,0.82,ASUS,Periféricos,24
+83,Estudiante Ingeniería UNT (Arranque en Frío),3183.99,0.71,ASUS,Tarjetas Gráficas,0
+84,Gamer Entusiasta eSports Trujillo,4152.99,0.89,HP,Monitores,23
+85,Estudiante Ingeniería UNT (Arranque en Frío),4321.22,0.56,Gigabyte,Procesadores,0
+86,Estudiante Ingeniería UNT (Arranque en Frío),4430.17,0.65,Logitech,Tarjetas Gráficas,0
+87,Gestor PYME Retail / Ofimática,2341.15,0.58,Logitech,Laptops,9
+88,Gamer Entusiasta eSports Trujillo,11761.2,0.97,Dell,Laptops,9
+89,Gamer Entusiasta eSports Trujillo,8452.88,0.78,ASUS,Periféricos,8
+90,Analista de Datos / Desarrollador IA,9315.14,0.91,Lenovo,Procesadores,15
+91,Gamer Entusiasta eSports Trujillo,10812.8,0.79,Corsair,Monitores,11
+92,Estudiante Ingeniería UNT (Arranque en Frío),3102.7,0.8,AMD,Memorias RAM,0
+93,Arquitecto CAD / Renderizado 3D Lumion,9881.11,0.95,Lenovo,Placas Madre,17
+94,Estudiante Ingeniería UNT (Arranque en Frío),2268.57,0.73,Corsair,Placas Madre,0
+95,Diseñador Gráfico & Multimedia,563.32,0.48,AMD,Placas Madre,8
+96,Analista de Datos / Desarrollador IA,3691.82,0.86,AMD,Memorias RAM,12
+97,Gamer Entusiasta eSports Trujillo,4195.46,0.81,Dell,Periféricos,4
+98,Estudiante Ingeniería UNT (Arranque en Frío),3486.46,0.84,Kingston,Laptops,0
+99,Estudiante Ingeniería UNT (Arranque en Frío),2337.62,0.56,Dell,Laptops,0
+100,Gestor PYME Retail / Ofimática,2447.64,0.38,Gigabyte,Monitores,5
+101,Diseñador Gráfico & Multimedia,2008.45,0.64,Lenovo,Monitores,4
+102,Estudiante Ingeniería UNT (Arranque en Frío),1967.01,0.58,Corsair,Laptops,0
+103,Diseñador Gráfico & Multimedia,1016.12,0.36,Kingston,Monitores,6
+104,Gamer Entusiasta eSports Trujillo,10595.03,0.84,Intel,Procesadores,15
+105,Arquitecto CAD / Renderizado 3D Lumion,4126.99,0.86,HP,Monitores,21
+106,Estudiante Ingeniería UNT (Arranque en Frío),1905.61,0.62,MSI,Laptops,0
+107,Gestor PYME Retail / Ofimática,568.8,0.56,Kingston,Monitores,6
+108,Gamer Entusiasta eSports Trujillo,7384.27,0.72,Lenovo,Laptops,17
+109,Gestor PYME Retail / Ofimática,1032.1,0.6,Lenovo,Laptops,1
+110,Arquitecto CAD / Renderizado 3D Lumion,10906.6,0.71,Lenovo,Periféricos,13
+111,Analista de Datos / Desarrollador IA,6510.38,0.87,Lenovo,Periféricos,4
+112,Estudiante Ingeniería UNT (Arranque en Frío),1951.7,0.72,Kingston,Placas Madre,0
+113,Estudiante Ingeniería UNT (Arranque en Frío),2509.39,0.69,AMD,Tarjetas Gráficas,0
+114,Estudiante Ingeniería UNT (Arranque en Frío),4206.04,0.71,AMD,Laptops,0
+115,Gestor PYME Retail / Ofimática,1820.29,0.4,Corsair,Tarjetas Gráficas,12
+116,Analista de Datos / Desarrollador IA,9225.6,0.97,Gigabyte,Monitores,16
+117,Estudiante Ingeniería UNT (Arranque en Frío),3432.13,0.64,NVIDIA,Periféricos,0
+118,Gamer Entusiasta eSports Trujillo,8822.0,0.91,Kingston,Laptops,13
+119,Gestor PYME Retail / Ofimática,1321.56,0.58,Intel,Placas Madre,13
+120,Arquitecto CAD / Renderizado 3D Lumion,6400.95,0.85,Logitech,Placas Madre,6
+121,Diseñador Gráfico & Multimedia,856.07,0.32,Logitech,Monitores,2
+122,Diseñador Gráfico & Multimedia,1740.84,0.44,MSI,Monitores,1
+123,Gamer Entusiasta eSports Trujillo,3761.0,0.77,Kingston,Monitores,10
+124,Analista de Datos / Desarrollador IA,10205.2,0.76,MSI,Tarjetas Gráficas,19
+125,Analista de Datos / Desarrollador IA,9805.64,0.96,ASUS,Periféricos,7
+126,Arquitecto CAD / Renderizado 3D Lumion,3648.12,0.74,Intel,Periféricos,4
+127,Arquitecto CAD / Renderizado 3D Lumion,5167.45,0.91,Intel,Placas Madre,4
+128,Estudiante Ingeniería UNT (Arranque en Frío),2529.2,0.62,ASUS,Periféricos,0
+129,Diseñador Gráfico & Multimedia,2695.01,0.36,AMD,Procesadores,1
+130,Analista de Datos / Desarrollador IA,4026.45,0.96,Corsair,Memorias RAM,21
+131,Estudiante Ingeniería UNT (Arranque en Frío),4055.08,0.77,Logitech,Periféricos,0
+132,Gamer Entusiasta eSports Trujillo,9597.3,0.87,Intel,Memorias RAM,10
+133,Arquitecto CAD / Renderizado 3D Lumion,3790.47,0.91,ASUS,Monitores,16
+134,Gestor PYME Retail / Ofimática,1636.7,0.49,Logitech,Laptops,2
+135,Arquitecto CAD / Renderizado 3D Lumion,5551.31,0.92,AMD,Placas Madre,4
+136,Analista de Datos / Desarrollador IA,10953.66,0.79,Kingston,Memorias RAM,12
+137,Estudiante Ingeniería UNT (Arranque en Frío),2803.48,0.8,Gigabyte,Tarjetas Gráficas,0
+138,Gamer Entusiasta eSports Trujillo,10897.54,0.78,Logitech,Tarjetas Gráficas,20
+139,Arquitecto CAD / Renderizado 3D Lumion,3922.12,0.82,ASUS,Monitores,15
+140,Estudiante Ingeniería UNT (Arranque en Frío),2969.87,0.8,MSI,Tarjetas Gráficas,0
+141,Analista de Datos / Desarrollador IA,8839.41,0.97,MSI,Laptops,4
+142,Analista de Datos / Desarrollador IA,4643.13,0.86,Kingston,Memorias RAM,7
+143,Diseñador Gráfico & Multimedia,1788.85,0.4,Lenovo,Memorias RAM,8
+144,Analista de Datos / Desarrollador IA,5896.33,0.95,HP,Memorias RAM,11
+145,Gamer Entusiasta eSports Trujillo,6877.25,0.78,Intel,Tarjetas Gráficas,17
+146,Diseñador Gráfico & Multimedia,583.37,0.38,Lenovo,Monitores,13
+147,Gestor PYME Retail / Ofimática,582.97,0.49,Intel,Tarjetas Gráficas,4
+148,Gamer Entusiasta eSports Trujillo,8777.66,0.85,Dell,Laptops,23
+149,Gamer Entusiasta eSports Trujillo,6089.56,0.77,Dell,Monitores,15
+150,Diseñador Gráfico & Multimedia,2929.02,0.51,Intel,Procesadores,2
+151,Analista de Datos / Desarrollador IA,11668.34,0.71,Intel,Memorias RAM,16
+152,Analista de Datos / Desarrollador IA,10540.9,0.92,Intel,Laptops,18
+153,Estudiante Ingeniería UNT (Arranque en Frío),4024.65,0.74,Gigabyte,Tarjetas Gráficas,0
+154,Analista de Datos / Desarrollador IA,3905.46,0.7,ASUS,Procesadores,10
+155,Arquitecto CAD / Renderizado 3D Lumion,4497.44,0.94,ASUS,Placas Madre,21
+156,Estudiante Ingeniería UNT (Arranque en Frío),2691.63,0.8,Lenovo,Procesadores,0
+157,Gestor PYME Retail / Ofimática,771.98,0.62,AMD,Periféricos,10
+158,Analista de Datos / Desarrollador IA,9602.68,0.72,MSI,Laptops,4
+159,Gamer Entusiasta eSports Trujillo,10890.6,0.91,Gigabyte,Procesadores,22
+160,Gamer Entusiasta eSports Trujillo,11437.85,0.76,ASUS,Tarjetas Gráficas,19
+161,Estudiante Ingeniería UNT (Arranque en Frío),3337.78,0.83,Dell,Procesadores,0
+162,Estudiante Ingeniería UNT (Arranque en Frío),4213.45,0.75,Intel,Tarjetas Gráficas,0
+163,Arquitecto CAD / Renderizado 3D Lumion,10778.92,0.89,Kingston,Procesadores,7
+164,Estudiante Ingeniería UNT (Arranque en Frío),2657.88,0.68,Lenovo,Laptops,0
+165,Gamer Entusiasta eSports Trujillo,8144.21,0.76,MSI,Placas Madre,18
+166,Gestor PYME Retail / Ofimática,833.83,0.42,Lenovo,Memorias RAM,10
+167,Estudiante Ingeniería UNT (Arranque en Frío),4392.8,0.77,Logitech,Procesadores,0
+168,Estudiante Ingeniería UNT (Arranque en Frío),1948.84,0.84,Intel,Placas Madre,0
+169,Diseñador Gráfico & Multimedia,611.96,0.37,ASUS,Procesadores,3
+170,Analista de Datos / Desarrollador IA,9615.52,0.93,NVIDIA,Monitores,22
+171,Estudiante Ingeniería UNT (Arranque en Frío),2285.45,0.84,Lenovo,Placas Madre,0
+172,Estudiante Ingeniería UNT (Arranque en Frío),1959.5,0.64,Dell,Tarjetas Gráficas,0
+173,Analista de Datos / Desarrollador IA,7667.63,0.93,Kingston,Placas Madre,23
+174,Arquitecto CAD / Renderizado 3D Lumion,3603.91,0.78,Corsair,Memorias RAM,23
+175,Analista de Datos / Desarrollador IA,7550.21,0.7,Dell,Placas Madre,20
+176,Gamer Entusiasta eSports Trujillo,9978.3,0.97,AMD,Periféricos,12
+177,Diseñador Gráfico & Multimedia,1393.07,0.37,Intel,Memorias RAM,12
+178,Analista de Datos / Desarrollador IA,4070.38,0.73,Corsair,Memorias RAM,14
+179,Estudiante Ingeniería UNT (Arranque en Frío),1808.15,0.55,ASUS,Placas Madre,0
+180,Arquitecto CAD / Renderizado 3D Lumion,4582.11,0.91,AMD,Periféricos,6
+181,Gamer Entusiasta eSports Trujillo,7712.98,0.76,MSI,Memorias RAM,5
+182,Estudiante Ingeniería UNT (Arranque en Frío),4548.03,0.67,Kingston,Memorias RAM,0
+183,Estudiante Ingeniería UNT (Arranque en Frío),2195.25,0.65,Lenovo,Monitores,0
+184,Estudiante Ingeniería UNT (Arranque en Frío),3198.16,0.73,Dell,Tarjetas Gráficas,0
+185,Gamer Entusiasta eSports Trujillo,7175.65,0.91,ASUS,Periféricos,10
+186,Analista de Datos / Desarrollador IA,4080.36,0.86,Intel,Laptops,22
+187,Estudiante Ingeniería UNT (Arranque en Frío),2171.58,0.74,ASUS,Tarjetas Gráficas,0
+188,Analista de Datos / Desarrollador IA,9591.45,0.74,NVIDIA,Laptops,21
+189,Analista de Datos / Desarrollador IA,5447.36,0.7,Corsair,Laptops,5
+190,Diseñador Gráfico & Multimedia,772.22,0.43,Logitech,Tarjetas Gráficas,11
+191,Gestor PYME Retail / Ofimática,1393.0,0.36,AMD,Memorias RAM,9
+192,Diseñador Gráfico & Multimedia,656.88,0.44,Corsair,Monitores,4
+193,Diseñador Gráfico & Multimedia,3122.8,0.37,ASUS,Periféricos,14
+194,Gamer Entusiasta eSports Trujillo,5683.72,0.77,Intel,Tarjetas Gráficas,7
+195,Gamer Entusiasta eSports Trujillo,10840.88,0.9,Kingston,Memorias RAM,11
+196,Arquitecto CAD / Renderizado 3D Lumion,11672.56,0.79,Lenovo,Tarjetas Gráficas,22
+197,Gamer Entusiasta eSports Trujillo,11384.44,0.87,Intel,Tarjetas Gráficas,20
+198,Estudiante Ingeniería UNT (Arranque en Frío),4238.03,0.56,Corsair,Monitores,0
+199,Analista de Datos / Desarrollador IA,9703.95,0.81,NVIDIA,Procesadores,5
+200,Estudiante Ingeniería UNT (Arranque en Frío),2456.82,0.65,Kingston,Placas Madre,0
+201,Arquitecto CAD / Renderizado 3D Lumion,11699.97,0.89,Lenovo,Tarjetas Gráficas,17
+202,Arquitecto CAD / Renderizado 3D Lumion,4579.93,0.81,Dell,Placas Madre,20
+203,Diseñador Gráfico & Multimedia,2520.8,0.36,Kingston,Memorias RAM,9
+204,Estudiante Ingeniería UNT (Arranque en Frío),2236.27,0.62,MSI,Procesadores,0
+205,Gestor PYME Retail / Ofimática,1524.47,0.52,MSI,Monitores,4
+206,Estudiante Ingeniería UNT (Arranque en Frío),2107.61,0.73,ASUS,Procesadores,0
+207,Analista de Datos / Desarrollador IA,9738.01,0.8,Lenovo,Laptops,17
+208,Arquitecto CAD / Renderizado 3D Lumion,4031.18,0.78,HP,Periféricos,6
+209,Arquitecto CAD / Renderizado 3D Lumion,6538.31,0.73,Lenovo,Periféricos,18
+210,Diseñador Gráfico & Multimedia,864.41,0.34,Corsair,Monitores,11
+211,Arquitecto CAD / Renderizado 3D Lumion,6052.14,0.76,NVIDIA,Periféricos,9
+212,Arquitecto CAD / Renderizado 3D Lumion,10989.17,0.83,ASUS,Monitores,17
+213,Gamer Entusiasta eSports Trujillo,9463.88,0.91,Dell,Placas Madre,4
+214,Analista de Datos / Desarrollador IA,11831.29,0.89,Intel,Procesadores,20
+215,Diseñador Gráfico & Multimedia,2490.3,0.36,Gigabyte,Memorias RAM,3
+216,Analista de Datos / Desarrollador IA,6792.71,0.79,ASUS,Laptops,20
+217,Gamer Entusiasta eSports Trujillo,6612.35,0.97,Gigabyte,Procesadores,4
+218,Gamer Entusiasta eSports Trujillo,8747.28,0.75,Corsair,Memorias RAM,19
+219,Gamer Entusiasta eSports Trujillo,6901.18,0.96,Gigabyte,Placas Madre,23
+220,Analista de Datos / Desarrollador IA,11250.26,0.79,HP,Memorias RAM,5
+221,Arquitecto CAD / Renderizado 3D Lumion,8695.23,0.98,Kingston,Memorias RAM,12
+222,Analista de Datos / Desarrollador IA,10274.74,0.74,Dell,Periféricos,15
+223,Arquitecto CAD / Renderizado 3D Lumion,6449.73,0.83,AMD,Periféricos,22
+224,Gamer Entusiasta eSports Trujillo,11669.43,0.78,HP,Memorias RAM,8
+225,Arquitecto CAD / Renderizado 3D Lumion,7441.45,0.73,AMD,Tarjetas Gráficas,5
+226,Arquitecto CAD / Renderizado 3D Lumion,7590.66,0.85,Dell,Monitores,13
+227,Analista de Datos / Desarrollador IA,7300.92,0.72,Lenovo,Procesadores,3
+228,Estudiante Ingeniería UNT (Arranque en Frío),3932.16,0.77,Lenovo,Memorias RAM,0
+229,Estudiante Ingeniería UNT (Arranque en Frío),4380.48,0.56,Gigabyte,Laptops,0
+230,Estudiante Ingeniería UNT (Arranque en Frío),3523.37,0.8,Dell,Tarjetas Gráficas,0
+231,Estudiante Ingeniería UNT (Arranque en Frío),1613.43,0.78,Corsair,Memorias RAM,0
+232,Estudiante Ingeniería UNT (Arranque en Frío),4766.0,0.73,Lenovo,Memorias RAM,0
+233,Gestor PYME Retail / Ofimática,1560.37,0.46,NVIDIA,Monitores,13
+234,Gamer Entusiasta eSports Trujillo,3890.7,0.8,NVIDIA,Procesadores,20
+235,Gamer Entusiasta eSports Trujillo,7083.92,0.82,Lenovo,Periféricos,20
+236,Analista de Datos / Desarrollador IA,3531.68,0.82,Intel,Periféricos,4
+237,Analista de Datos / Desarrollador IA,11040.89,0.77,Gigabyte,Tarjetas Gráficas,18
+238,Estudiante Ingeniería UNT (Arranque en Frío),3238.94,0.83,Lenovo,Memorias RAM,0
+239,Gestor PYME Retail / Ofimática,2728.86,0.46,NVIDIA,Memorias RAM,14
+240,Diseñador Gráfico & Multimedia,3170.95,0.45,Logitech,Placas Madre,6
+241,Estudiante Ingeniería UNT (Arranque en Frío),1824.88,0.66,Logitech,Laptops,0
+242,Analista de Datos / Desarrollador IA,3904.7,0.89,ASUS,Laptops,8
+243,Estudiante Ingeniería UNT (Arranque en Frío),3936.6,0.68,Logitech,Procesadores,0
+244,Estudiante Ingeniería UNT (Arranque en Frío),1650.44,0.66,Lenovo,Periféricos,0
+245,Arquitecto CAD / Renderizado 3D Lumion,5358.9,0.76,Logitech,Tarjetas Gráficas,17
+246,Gestor PYME Retail / Ofimática,1041.83,0.52,HP,Monitores,7
+247,Analista de Datos / Desarrollador IA,10329.36,0.77,Lenovo,Monitores,4
+248,Gamer Entusiasta eSports Trujillo,3630.59,0.72,Gigabyte,Memorias RAM,8
+249,Gamer Entusiasta eSports Trujillo,8296.01,0.8,Logitech,Periféricos,14
+250,Gamer Entusiasta eSports Trujillo,9789.2,0.94,Kingston,Periféricos,15
+251,Arquitecto CAD / Renderizado 3D Lumion,9684.67,0.76,Dell,Monitores,18
+252,Gestor PYME Retail / Ofimática,1081.08,0.44,Lenovo,Tarjetas Gráficas,7
+253,Gamer Entusiasta eSports Trujillo,11051.25,0.82,Lenovo,Procesadores,12
+254,Gamer Entusiasta eSports Trujillo,11673.65,0.85,Corsair,Periféricos,13
+255,Gamer Entusiasta eSports Trujillo,3916.36,0.84,MSI,Placas Madre,15
+256,Diseñador Gráfico & Multimedia,1883.43,0.56,Kingston,Procesadores,11
+257,Analista de Datos / Desarrollador IA,9482.89,0.83,AMD,Laptops,20
+258,Estudiante Ingeniería UNT (Arranque en Frío),2164.16,0.63,Gigabyte,Periféricos,0
+259,Gamer Entusiasta eSports Trujillo,7247.12,0.93,Intel,Placas Madre,7
+260,Arquitecto CAD / Renderizado 3D Lumion,11613.49,0.78,MSI,Memorias RAM,21
+261,Diseñador Gráfico & Multimedia,1535.68,0.5,Gigabyte,Procesadores,12
+262,Gamer Entusiasta eSports Trujillo,8643.27,0.81,Lenovo,Tarjetas Gráficas,24
+263,Estudiante Ingeniería UNT (Arranque en Frío),1586.34,0.8,Intel,Tarjetas Gráficas,0
+264,Gamer Entusiasta eSports Trujillo,5858.15,0.93,Kingston,Laptops,21
+265,Arquitecto CAD / Renderizado 3D Lumion,11641.3,0.89,Intel,Laptops,5
+266,Gamer Entusiasta eSports Trujillo,5196.79,0.87,HP,Monitores,18
+267,Arquitecto CAD / Renderizado 3D Lumion,10902.68,0.71,HP,Laptops,15
+268,Estudiante Ingeniería UNT (Arranque en Frío),1963.89,0.83,Logitech,Periféricos,0
+269,Estudiante Ingeniería UNT (Arranque en Frío),4027.72,0.71,MSI,Periféricos,0
+270,Arquitecto CAD / Renderizado 3D Lumion,7552.17,0.74,MSI,Periféricos,24
+271,Arquitecto CAD / Renderizado 3D Lumion,6667.14,0.88,MSI,Periféricos,13
+272,Gestor PYME Retail / Ofimática,2589.04,0.57,Logitech,Laptops,12
+273,Arquitecto CAD / Renderizado 3D Lumion,11469.16,0.92,Corsair,Memorias RAM,6
+274,Estudiante Ingeniería UNT (Arranque en Frío),2041.41,0.55,Dell,Placas Madre,0
+275,Gestor PYME Retail / Ofimática,579.5,0.57,Lenovo,Monitores,1
+276,Gestor PYME Retail / Ofimática,565.12,0.55,Kingston,Laptops,14
+277,Gamer Entusiasta eSports Trujillo,10259.53,0.91,Intel,Procesadores,20
+278,Arquitecto CAD / Renderizado 3D Lumion,8802.51,0.82,Intel,Memorias RAM,17
+279,Gestor PYME Retail / Ofimática,2976.16,0.62,AMD,Placas Madre,9
+280,Estudiante Ingeniería UNT (Arranque en Frío),2214.29,0.68,NVIDIA,Memorias RAM,0
+281,Diseñador Gráfico & Multimedia,1844.31,0.33,Corsair,Tarjetas Gráficas,14
+282,Gestor PYME Retail / Ofimática,2197.86,0.39,HP,Memorias RAM,9
+283,Gamer Entusiasta eSports Trujillo,9100.14,0.92,Gigabyte,Monitores,14
+284,Arquitecto CAD / Renderizado 3D Lumion,4974.92,0.8,Logitech,Periféricos,6
+285,Estudiante Ingeniería UNT (Arranque en Frío),2586.69,0.73,Logitech,Memorias RAM,0
+286,Diseñador Gráfico & Multimedia,1252.31,0.62,Kingston,Tarjetas Gráficas,1
+287,Gestor PYME Retail / Ofimática,1918.09,0.34,Kingston,Tarjetas Gráficas,12
+288,Arquitecto CAD / Renderizado 3D Lumion,9437.17,0.77,Dell,Tarjetas Gráficas,23
+289,Estudiante Ingeniería UNT (Arranque en Frío),1559.03,0.73,HP,Monitores,0
+290,Analista de Datos / Desarrollador IA,4402.13,0.7,Lenovo,Monitores,17
+291,Diseñador Gráfico & Multimedia,1451.58,0.49,Gigabyte,Memorias RAM,8
+292,Analista de Datos / Desarrollador IA,8726.55,0.89,Logitech,Tarjetas Gráficas,14
+293,Estudiante Ingeniería UNT (Arranque en Frío),2098.78,0.56,HP,Laptops,0
+294,Gamer Entusiasta eSports Trujillo,4351.78,0.92,Gigabyte,Procesadores,19
+295,Estudiante Ingeniería UNT (Arranque en Frío),2831.07,0.65,Corsair,Periféricos,0
+296,Diseñador Gráfico & Multimedia,2423.77,0.4,ASUS,Procesadores,7
+297,Arquitecto CAD / Renderizado 3D Lumion,4055.25,0.72,Dell,Periféricos,23
+298,Analista de Datos / Desarrollador IA,6742.54,0.95,ASUS,Tarjetas Gráficas,18
+299,Estudiante Ingeniería UNT (Arranque en Frío),4627.96,0.82,Gigabyte,Placas Madre,0
+300,Estudiante Ingeniería UNT (Arranque en Frío),2878.9,0.75,Logitech,Periféricos,0
+301,Analista de Datos / Desarrollador IA,11924.07,0.86,Intel,Memorias RAM,11
+302,Gestor PYME Retail / Ofimática,954.21,0.43,Logitech,Procesadores,12
+303,Arquitecto CAD / Renderizado 3D Lumion,5686.81,0.94,Kingston,Monitores,23
+304,Gamer Entusiasta eSports Trujillo,10104.31,0.71,Gigabyte,Monitores,16
+305,Analista de Datos / Desarrollador IA,5474.99,0.82,Dell,Periféricos,6
+306,Gestor PYME Retail / Ofimática,359.12,0.47,Kingston,Laptops,7
+307,Analista de Datos / Desarrollador IA,6245.43,0.97,Gigabyte,Placas Madre,22
+308,Estudiante Ingeniería UNT (Arranque en Frío),3024.77,0.7,HP,Placas Madre,0
+309,Gamer Entusiasta eSports Trujillo,11967.11,0.88,Lenovo,Laptops,8
+310,Gestor PYME Retail / Ofimática,2332.52,0.44,MSI,Memorias RAM,1
+311,Gestor PYME Retail / Ofimática,874.59,0.54,HP,Memorias RAM,1
+312,Gamer Entusiasta eSports Trujillo,8217.79,0.8,Lenovo,Tarjetas Gráficas,9
+313,Diseñador Gráfico & Multimedia,1499.98,0.46,Gigabyte,Periféricos,11
+314,Estudiante Ingeniería UNT (Arranque en Frío),3603.53,0.73,Logitech,Laptops,0
+315,Gamer Entusiasta eSports Trujillo,11628.35,0.84,Logitech,Laptops,17
+316,Gestor PYME Retail / Ofimática,1562.02,0.48,Logitech,Monitores,2
+317,Estudiante Ingeniería UNT (Arranque en Frío),4439.73,0.65,NVIDIA,Periféricos,0
+318,Diseñador Gráfico & Multimedia,1763.32,0.46,Logitech,Laptops,11
+319,Arquitecto CAD / Renderizado 3D Lumion,8036.76,0.91,ASUS,Tarjetas Gráficas,10
+320,Arquitecto CAD / Renderizado 3D Lumion,7749.3,0.96,MSI,Procesadores,12
+321,Arquitecto CAD / Renderizado 3D Lumion,3814.48,0.82,Lenovo,Memorias RAM,6
+322,Arquitecto CAD / Renderizado 3D Lumion,5509.71,0.91,AMD,Periféricos,10
+323,Gamer Entusiasta eSports Trujillo,6222.89,0.92,Dell,Tarjetas Gráficas,16
+324,Gamer Entusiasta eSports Trujillo,8640.29,0.95,Corsair,Periféricos,21
+325,Estudiante Ingeniería UNT (Arranque en Frío),2288.1,0.63,Dell,Periféricos,0
+326,Gestor PYME Retail / Ofimática,1451.29,0.52,AMD,Periféricos,12
+327,Estudiante Ingeniería UNT (Arranque en Frío),2214.16,0.61,Logitech,Tarjetas Gráficas,0
+328,Gestor PYME Retail / Ofimática,2026.43,0.4,NVIDIA,Monitores,10
+329,Arquitecto CAD / Renderizado 3D Lumion,10775.17,0.76,ASUS,Tarjetas Gráficas,15
+330,Gamer Entusiasta eSports Trujillo,8015.71,0.79,Dell,Monitores,12
+331,Gamer Entusiasta eSports Trujillo,7253.55,0.78,AMD,Monitores,7
+332,Gamer Entusiasta eSports Trujillo,11895.41,0.88,Corsair,Periféricos,17
+333,Gestor PYME Retail / Ofimática,1631.07,0.62,Kingston,Laptops,10
+334,Diseñador Gráfico & Multimedia,2060.82,0.55,Corsair,Tarjetas Gráficas,10
+335,Arquitecto CAD / Renderizado 3D Lumion,4491.2,0.9,AMD,Procesadores,21
+336,Gamer Entusiasta eSports Trujillo,4798.42,0.91,Gigabyte,Periféricos,7
+337,Gamer Entusiasta eSports Trujillo,9528.97,0.94,Kingston,Placas Madre,14
+338,Diseñador Gráfico & Multimedia,2533.83,0.61,Intel,Tarjetas Gráficas,4
+339,Gestor PYME Retail / Ofimática,2724.5,0.35,HP,Periféricos,5
+340,Gamer Entusiasta eSports Trujillo,4166.94,0.89,Intel,Monitores,13
+341,Gamer Entusiasta eSports Trujillo,6445.24,0.98,Intel,Procesadores,23
+342,Arquitecto CAD / Renderizado 3D Lumion,5938.81,0.89,Corsair,Monitores,21
+343,Gestor PYME Retail / Ofimática,352.86,0.48,Corsair,Laptops,5
+344,Gestor PYME Retail / Ofimática,2384.07,0.56,AMD,Placas Madre,13
+345,Diseñador Gráfico & Multimedia,2718.5,0.43,NVIDIA,Memorias RAM,4
+346,Gamer Entusiasta eSports Trujillo,5491.1,0.85,NVIDIA,Memorias RAM,10
+347,Analista de Datos / Desarrollador IA,5729.92,0.74,Kingston,Laptops,17
+348,Gamer Entusiasta eSports Trujillo,6587.68,0.87,Logitech,Periféricos,18
+349,Analista de Datos / Desarrollador IA,7815.98,0.84,AMD,Laptops,12
+350,Arquitecto CAD / Renderizado 3D Lumion,11876.43,0.77,Corsair,Memorias RAM,4
+351,Analista de Datos / Desarrollador IA,7829.68,0.73,MSI,Laptops,20
+352,Estudiante Ingeniería UNT (Arranque en Frío),3178.46,0.75,Dell,Periféricos,0
+353,Estudiante Ingeniería UNT (Arranque en Frío),4470.03,0.74,ASUS,Memorias RAM,0
+354,Analista de Datos / Desarrollador IA,10200.73,0.83,Kingston,Laptops,4
+355,Diseñador Gráfico & Multimedia,1336.69,0.62,Kingston,Memorias RAM,13
+356,Analista de Datos / Desarrollador IA,4765.56,0.83,Logitech,Procesadores,4
+357,Analista de Datos / Desarrollador IA,8397.76,0.78,Kingston,Laptops,21
+358,Gestor PYME Retail / Ofimática,1770.92,0.57,Logitech,Memorias RAM,2
+359,Arquitecto CAD / Renderizado 3D Lumion,7519.54,0.94,Corsair,Laptops,13
+360,Estudiante Ingeniería UNT (Arranque en Frío),2990.29,0.74,Gigabyte,Periféricos,0
+361,Diseñador Gráfico & Multimedia,1087.16,0.53,HP,Memorias RAM,4
+362,Diseñador Gráfico & Multimedia,853.1,0.39,ASUS,Memorias RAM,8
+363,Gamer Entusiasta eSports Trujillo,4164.55,0.76,Lenovo,Monitores,19
+364,Arquitecto CAD / Renderizado 3D Lumion,7452.05,0.71,Kingston,Monitores,8
+365,Gestor PYME Retail / Ofimática,1417.81,0.43,MSI,Periféricos,4
+366,Analista de Datos / Desarrollador IA,6125.95,0.93,Gigabyte,Placas Madre,13
+367,Estudiante Ingeniería UNT (Arranque en Frío),3169.57,0.68,Intel,Periféricos,0
+368,Estudiante Ingeniería UNT (Arranque en Frío),2420.93,0.59,Kingston,Laptops,0
+369,Diseñador Gráfico & Multimedia,1848.82,0.41,Kingston,Procesadores,8
+370,Estudiante Ingeniería UNT (Arranque en Frío),4360.1,0.57,Logitech,Tarjetas Gráficas,0
+371,Arquitecto CAD / Renderizado 3D Lumion,4810.04,0.73,AMD,Tarjetas Gráficas,13
+372,Gamer Entusiasta eSports Trujillo,10471.62,0.94,HP,Monitores,3
+373,Estudiante Ingeniería UNT (Arranque en Frío),3766.98,0.83,Corsair,Laptops,0
+374,Arquitecto CAD / Renderizado 3D Lumion,6830.73,0.7,HP,Monitores,6
+375,Arquitecto CAD / Renderizado 3D Lumion,4203.59,0.95,Logitech,Memorias RAM,19
+376,Arquitecto CAD / Renderizado 3D Lumion,6593.09,0.93,Logitech,Memorias RAM,12
+377,Gestor PYME Retail / Ofimática,1413.53,0.6,Intel,Procesadores,11
+378,Gamer Entusiasta eSports Trujillo,9725.25,0.89,NVIDIA,Laptops,18
+379,Arquitecto CAD / Renderizado 3D Lumion,4448.21,0.88,HP,Tarjetas Gráficas,21
+380,Arquitecto CAD / Renderizado 3D Lumion,5156.81,0.76,Intel,Procesadores,5
+381,Estudiante Ingeniería UNT (Arranque en Frío),2498.28,0.77,Lenovo,Periféricos,0
+382,Estudiante Ingeniería UNT (Arranque en Frío),2045.77,0.84,Logitech,Laptops,0
+383,Analista de Datos / Desarrollador IA,5472.56,0.84,Logitech,Laptops,9
+384,Estudiante Ingeniería UNT (Arranque en Frío),4303.46,0.58,Gigabyte,Monitores,0
+385,Gamer Entusiasta eSports Trujillo,4928.15,0.77,Logitech,Monitores,4
+386,Gestor PYME Retail / Ofimática,1661.78,0.34,Lenovo,Laptops,6
+387,Arquitecto CAD / Renderizado 3D Lumion,11352.79,0.85,Lenovo,Placas Madre,21
+388,Arquitecto CAD / Renderizado 3D Lumion,9158.67,0.71,Kingston,Procesadores,23
+389,Gestor PYME Retail / Ofimática,1131.14,0.63,Logitech,Laptops,7
+390,Gestor PYME Retail / Ofimática,559.24,0.56,MSI,Periféricos,13
+391,Gestor PYME Retail / Ofimática,1043.26,0.62,Lenovo,Monitores,1
+392,Gamer Entusiasta eSports Trujillo,11941.11,0.77,NVIDIA,Periféricos,6
+393,Diseñador Gráfico & Multimedia,1613.16,0.57,MSI,Procesadores,7
+394,Gestor PYME Retail / Ofimática,930.0,0.48,ASUS,Tarjetas Gráficas,9
+395,Gamer Entusiasta eSports Trujillo,9989.51,0.85,Dell,Laptops,11
+396,Analista de Datos / Desarrollador IA,7918.17,0.82,NVIDIA,Memorias RAM,10
+397,Estudiante Ingeniería UNT (Arranque en Frío),3807.66,0.73,AMD,Laptops,0
+398,Gamer Entusiasta eSports Trujillo,10489.09,0.86,MSI,Laptops,17
+399,Arquitecto CAD / Renderizado 3D Lumion,8220.07,0.94,Logitech,Procesadores,11
+400,Arquitecto CAD / Renderizado 3D Lumion,5869.98,0.96,Gigabyte,Periféricos,9
+401,Estudiante Ingeniería UNT (Arranque en Frío),3040.69,0.68,HP,Procesadores,0
+402,Arquitecto CAD / Renderizado 3D Lumion,10273.34,0.75,Lenovo,Monitores,22
+403,Gamer Entusiasta eSports Trujillo,7736.89,0.78,HP,Placas Madre,5
+404,Analista de Datos / Desarrollador IA,5221.65,0.73,Lenovo,Laptops,20
+405,Arquitecto CAD / Renderizado 3D Lumion,9916.31,0.77,NVIDIA,Monitores,5
+406,Gestor PYME Retail / Ofimática,1672.6,0.42,ASUS,Tarjetas Gráficas,3
+407,Gamer Entusiasta eSports Trujillo,9867.21,0.93,ASUS,Procesadores,24
+408,Analista de Datos / Desarrollador IA,10583.16,0.82,Gigabyte,Placas Madre,17
+409,Arquitecto CAD / Renderizado 3D Lumion,7735.82,0.72,Intel,Periféricos,20
+410,Gestor PYME Retail / Ofimática,1980.17,0.46,Gigabyte,Memorias RAM,9
+411,Analista de Datos / Desarrollador IA,7982.88,0.89,Lenovo,Memorias RAM,5
+412,Gestor PYME Retail / Ofimática,1962.89,0.35,Lenovo,Placas Madre,5
+413,Estudiante Ingeniería UNT (Arranque en Frío),3705.21,0.74,MSI,Monitores,0
+414,Gamer Entusiasta eSports Trujillo,7910.63,0.77,MSI,Periféricos,7
+415,Estudiante Ingeniería UNT (Arranque en Frío),3016.83,0.71,Corsair,Memorias RAM,0
+416,Arquitecto CAD / Renderizado 3D Lumion,5571.13,0.91,Gigabyte,Laptops,3
+417,Gamer Entusiasta eSports Trujillo,7784.16,0.84,MSI,Procesadores,7
+418,Gestor PYME Retail / Ofimática,1531.54,0.59,HP,Tarjetas Gráficas,5
+419,Gamer Entusiasta eSports Trujillo,11520.5,0.73,Corsair,Memorias RAM,8
+420,Arquitecto CAD / Renderizado 3D Lumion,11008.16,0.72,HP,Laptops,9
+421,Analista de Datos / Desarrollador IA,11940.86,0.71,Gigabyte,Periféricos,7
+422,Estudiante Ingeniería UNT (Arranque en Frío),3477.56,0.59,Lenovo,Monitores,0
+423,Arquitecto CAD / Renderizado 3D Lumion,4710.5,0.74,Kingston,Procesadores,14
+424,Analista de Datos / Desarrollador IA,4481.92,0.74,MSI,Laptops,4
+425,Gamer Entusiasta eSports Trujillo,3507.29,0.78,Logitech,Laptops,6
+426,Analista de Datos / Desarrollador IA,10935.77,0.83,Lenovo,Monitores,6
+427,Arquitecto CAD / Renderizado 3D Lumion,10857.36,0.81,Gigabyte,Procesadores,3
+428,Arquitecto CAD / Renderizado 3D Lumion,5402.01,0.78,Dell,Memorias RAM,4
+429,Diseñador Gráfico & Multimedia,1713.74,0.58,Dell,Periféricos,11
+430,Diseñador Gráfico & Multimedia,2359.06,0.3,Intel,Periféricos,1
+431,Arquitecto CAD / Renderizado 3D Lumion,8796.28,0.84,ASUS,Memorias RAM,10
+432,Analista de Datos / Desarrollador IA,6418.76,0.74,Kingston,Laptops,18
+433,Arquitecto CAD / Renderizado 3D Lumion,8564.3,0.95,Dell,Placas Madre,9
+434,Arquitecto CAD / Renderizado 3D Lumion,6991.61,0.92,Gigabyte,Memorias RAM,17
+435,Gestor PYME Retail / Ofimática,717.37,0.3,AMD,Laptops,1
+436,Gamer Entusiasta eSports Trujillo,10855.3,0.76,Logitech,Monitores,15
+437,Gestor PYME Retail / Ofimática,2221.67,0.65,NVIDIA,Tarjetas Gráficas,8
+438,Analista de Datos / Desarrollador IA,4902.3,0.77,Kingston,Periféricos,10
+439,Analista de Datos / Desarrollador IA,5882.11,0.8,NVIDIA,Tarjetas Gráficas,9
+440,Estudiante Ingeniería UNT (Arranque en Frío),4178.68,0.65,ASUS,Placas Madre,0
+441,Analista de Datos / Desarrollador IA,9117.23,0.97,NVIDIA,Monitores,14
+442,Diseñador Gráfico & Multimedia,1650.83,0.5,AMD,Laptops,6
+443,Gamer Entusiasta eSports Trujillo,3606.61,0.77,HP,Tarjetas Gráficas,11
+444,Estudiante Ingeniería UNT (Arranque en Frío),4781.83,0.7,Lenovo,Periféricos,0
+445,Diseñador Gráfico & Multimedia,496.72,0.31,Dell,Monitores,10
+446,Arquitecto CAD / Renderizado 3D Lumion,6002.23,0.82,Dell,Memorias RAM,24
+447,Gamer Entusiasta eSports Trujillo,5917.88,0.78,Intel,Laptops,13
+448,Estudiante Ingeniería UNT (Arranque en Frío),3487.71,0.74,Gigabyte,Placas Madre,0
+449,Estudiante Ingeniería UNT (Arranque en Frío),2481.25,0.83,Corsair,Placas Madre,0
+450,Arquitecto CAD / Renderizado 3D Lumion,5726.65,0.9,ASUS,Memorias RAM,4
+451,Gamer Entusiasta eSports Trujillo,9151.18,0.83,Gigabyte,Tarjetas Gráficas,16
+452,Gamer Entusiasta eSports Trujillo,11107.61,0.74,Lenovo,Monitores,22
+453,Analista de Datos / Desarrollador IA,10013.36,0.91,AMD,Tarjetas Gráficas,7
+454,Gamer Entusiasta eSports Trujillo,3532.42,0.73,AMD,Placas Madre,17
+455,Gamer Entusiasta eSports Trujillo,5996.04,0.91,HP,Procesadores,22
+456,Gestor PYME Retail / Ofimática,1631.58,0.4,MSI,Monitores,6
+457,Diseñador Gráfico & Multimedia,2023.34,0.47,Dell,Periféricos,8
+458,Arquitecto CAD / Renderizado 3D Lumion,4147.25,0.95,Lenovo,Monitores,21
+459,Estudiante Ingeniería UNT (Arranque en Frío),4368.1,0.57,HP,Monitores,0
+460,Gamer Entusiasta eSports Trujillo,9076.22,0.73,AMD,Placas Madre,7
+461,Estudiante Ingeniería UNT (Arranque en Frío),4115.8,0.7,Corsair,Monitores,0
+462,Gestor PYME Retail / Ofimática,2233.98,0.57,Intel,Placas Madre,5
+463,Arquitecto CAD / Renderizado 3D Lumion,11200.64,0.82,MSI,Laptops,24
+464,Gamer Entusiasta eSports Trujillo,6146.26,0.77,Corsair,Memorias RAM,15
+465,Estudiante Ingeniería UNT (Arranque en Frío),1513.52,0.64,Lenovo,Laptops,0
+466,Gamer Entusiasta eSports Trujillo,10877.33,0.82,Logitech,Placas Madre,18
+467,Estudiante Ingeniería UNT (Arranque en Frío),1964.66,0.75,Intel,Laptops,0
+468,Gestor PYME Retail / Ofimática,2140.37,0.52,Dell,Tarjetas Gráficas,11
+469,Diseñador Gráfico & Multimedia,2941.91,0.5,HP,Placas Madre,1
+470,Arquitecto CAD / Renderizado 3D Lumion,11042.0,0.85,HP,Tarjetas Gráficas,17
+471,Arquitecto CAD / Renderizado 3D Lumion,4241.8,0.83,Gigabyte,Tarjetas Gráficas,15
+472,Gamer Entusiasta eSports Trujillo,10757.17,0.84,Gigabyte,Memorias RAM,13
+473,Analista de Datos / Desarrollador IA,9644.02,0.96,Kingston,Tarjetas Gráficas,20
+474,Estudiante Ingeniería UNT (Arranque en Frío),2672.52,0.73,Intel,Laptops,0
+475,Gestor PYME Retail / Ofimática,2882.3,0.39,ASUS,Laptops,6
+476,Estudiante Ingeniería UNT (Arranque en Frío),4231.5,0.69,ASUS,Monitores,0
+477,Estudiante Ingeniería UNT (Arranque en Frío),3949.41,0.72,Lenovo,Procesadores,0
+478,Gamer Entusiasta eSports Trujillo,10752.6,0.85,Lenovo,Memorias RAM,3
+479,Estudiante Ingeniería UNT (Arranque en Frío),3592.1,0.74,Intel,Monitores,0
+480,Analista de Datos / Desarrollador IA,5220.2,0.79,Logitech,Monitores,6
+481,Estudiante Ingeniería UNT (Arranque en Frío),2847.23,0.66,MSI,Monitores,0
+482,Gestor PYME Retail / Ofimática,482.06,0.45,NVIDIA,Procesadores,11
+483,Gamer Entusiasta eSports Trujillo,10026.16,0.81,ASUS,Tarjetas Gráficas,24
+484,Gamer Entusiasta eSports Trujillo,4494.64,0.7,Corsair,Monitores,20
+485,Estudiante Ingeniería UNT (Arranque en Frío),4083.87,0.62,NVIDIA,Placas Madre,0
+486,Estudiante Ingeniería UNT (Arranque en Frío),2317.57,0.65,Gigabyte,Laptops,0
+487,Analista de Datos / Desarrollador IA,6855.53,0.86,Dell,Placas Madre,21
+488,Arquitecto CAD / Renderizado 3D Lumion,9821.71,0.9,Corsair,Procesadores,24
+489,Gamer Entusiasta eSports Trujillo,4638.19,0.76,HP,Monitores,7
+490,Gamer Entusiasta eSports Trujillo,5605.01,0.74,AMD,Periféricos,16
+491,Arquitecto CAD / Renderizado 3D Lumion,5270.67,0.8,AMD,Periféricos,19
+492,Gestor PYME Retail / Ofimática,2632.86,0.44,NVIDIA,Periféricos,12
+493,Diseñador Gráfico & Multimedia,2270.96,0.38,NVIDIA,Procesadores,1
+494,Gamer Entusiasta eSports Trujillo,8269.79,0.86,ASUS,Laptops,14
+495,Diseñador Gráfico & Multimedia,1854.42,0.42,Gigabyte,Periféricos,5
+496,Gestor PYME Retail / Ofimática,1675.45,0.32,Kingston,Monitores,14
+497,Estudiante Ingeniería UNT (Arranque en Frío),2851.6,0.6,ASUS,Procesadores,0
+498,Estudiante Ingeniería UNT (Arranque en Frío),1897.17,0.62,Lenovo,Placas Madre,0
+499,Gamer Entusiasta eSports Trujillo,4536.62,0.83,Intel,Procesadores,24
+500,Gamer Entusiasta eSports Trujillo,9782.7,0.82,Dell,Placas Madre,12
+501,Arquitecto CAD / Renderizado 3D Lumion,9107.81,0.87,AMD,Periféricos,12
+502,Arquitecto CAD / Renderizado 3D Lumion,4924.98,0.93,NVIDIA,Monitores,5
+503,Gamer Entusiasta eSports Trujillo,11335.64,0.82,HP,Tarjetas Gráficas,3
+504,Analista de Datos / Desarrollador IA,3523.43,0.89,HP,Monitores,7
+505,Estudiante Ingeniería UNT (Arranque en Frío),2063.6,0.84,NVIDIA,Memorias RAM,0
+506,Analista de Datos / Desarrollador IA,6482.16,0.78,Lenovo,Laptops,9
+507,Diseñador Gráfico & Multimedia,448.41,0.5,AMD,Procesadores,11
+508,Gestor PYME Retail / Ofimática,3103.92,0.39,HP,Periféricos,10
+509,Estudiante Ingeniería UNT (Arranque en Frío),3946.52,0.82,AMD,Monitores,0
+510,Estudiante Ingeniería UNT (Arranque en Frío),2695.5,0.85,HP,Laptops,0
+511,Gamer Entusiasta eSports Trujillo,4773.41,0.88,MSI,Procesadores,22
+512,Diseñador Gráfico & Multimedia,2345.8,0.52,Kingston,Periféricos,5
+513,Gestor PYME Retail / Ofimática,481.65,0.34,Corsair,Tarjetas Gráficas,5
+514,Gamer Entusiasta eSports Trujillo,10924.31,0.85,Corsair,Periféricos,11
+515,Estudiante Ingeniería UNT (Arranque en Frío),3091.77,0.74,Lenovo,Periféricos,0
+516,Analista de Datos / Desarrollador IA,6921.44,0.72,Corsair,Placas Madre,16
+517,Gestor PYME Retail / Ofimática,2076.63,0.48,NVIDIA,Laptops,12
+518,Diseñador Gráfico & Multimedia,942.23,0.54,ASUS,Tarjetas Gráficas,8
+519,Analista de Datos / Desarrollador IA,6310.85,0.97,Corsair,Tarjetas Gráficas,18
+520,Gamer Entusiasta eSports Trujillo,10462.58,0.85,Kingston,Memorias RAM,11
+521,Analista de Datos / Desarrollador IA,9598.47,0.82,AMD,Tarjetas Gráficas,22
+522,Diseñador Gráfico & Multimedia,638.61,0.51,Gigabyte,Memorias RAM,11
+523,Analista de Datos / Desarrollador IA,11104.58,0.9,ASUS,Periféricos,20
+524,Arquitecto CAD / Renderizado 3D Lumion,3908.59,0.9,HP,Tarjetas Gráficas,14
+525,Analista de Datos / Desarrollador IA,6164.72,0.74,Intel,Periféricos,8
+526,Gestor PYME Retail / Ofimática,3024.09,0.43,AMD,Placas Madre,6
+527,Gamer Entusiasta eSports Trujillo,10773.37,0.85,AMD,Tarjetas Gráficas,5
+528,Gamer Entusiasta eSports Trujillo,9452.7,0.88,Gigabyte,Monitores,10
+529,Analista de Datos / Desarrollador IA,9388.6,0.7,NVIDIA,Placas Madre,17
+530,Analista de Datos / Desarrollador IA,8253.31,0.81,Dell,Procesadores,6
+531,Estudiante Ingeniería UNT (Arranque en Frío),4152.42,0.67,Corsair,Tarjetas Gráficas,0
+532,Analista de Datos / Desarrollador IA,7629.11,0.71,Logitech,Periféricos,17
+533,Gamer Entusiasta eSports Trujillo,4922.58,0.78,Corsair,Tarjetas Gráficas,14
+534,Diseñador Gráfico & Multimedia,2210.46,0.43,MSI,Procesadores,7
+535,Diseñador Gráfico & Multimedia,1839.39,0.5,Logitech,Periféricos,4
+536,Gamer Entusiasta eSports Trujillo,7173.41,0.74,Lenovo,Memorias RAM,19
+537,Diseñador Gráfico & Multimedia,2818.48,0.31,Logitech,Placas Madre,13
+538,Arquitecto CAD / Renderizado 3D Lumion,10752.36,0.86,Kingston,Procesadores,13
+539,Analista de Datos / Desarrollador IA,11380.95,0.95,Lenovo,Procesadores,16
+540,Estudiante Ingeniería UNT (Arranque en Frío),2542.07,0.78,HP,Monitores,0
+541,Estudiante Ingeniería UNT (Arranque en Frío),3964.16,0.65,MSI,Periféricos,0
+542,Gestor PYME Retail / Ofimática,1742.65,0.53,NVIDIA,Laptops,11
+543,Gestor PYME Retail / Ofimática,811.42,0.31,NVIDIA,Procesadores,7
+544,Gamer Entusiasta eSports Trujillo,5982.18,0.79,Logitech,Memorias RAM,24
+545,Arquitecto CAD / Renderizado 3D Lumion,8334.22,0.93,NVIDIA,Memorias RAM,16
+546,Gamer Entusiasta eSports Trujillo,10551.23,0.88,Kingston,Memorias RAM,23
+547,Gestor PYME Retail / Ofimática,1285.14,0.51,Dell,Periféricos,9
+548,Arquitecto CAD / Renderizado 3D Lumion,3886.74,0.87,Kingston,Placas Madre,20
+549,Arquitecto CAD / Renderizado 3D Lumion,8798.51,0.78,AMD,Placas Madre,21
+550,Gestor PYME Retail / Ofimática,1816.28,0.54,AMD,Periféricos,5
+551,Diseñador Gráfico & Multimedia,1614.28,0.65,Intel,Tarjetas Gráficas,12
+552,Estudiante Ingeniería UNT (Arranque en Frío),3758.18,0.65,ASUS,Procesadores,0
+553,Gestor PYME Retail / Ofimática,617.58,0.63,Kingston,Monitores,9
+554,Analista de Datos / Desarrollador IA,4141.05,0.86,Lenovo,Memorias RAM,8
+555,Arquitecto CAD / Renderizado 3D Lumion,4952.71,0.79,Corsair,Procesadores,21
+556,Gestor PYME Retail / Ofimática,1358.12,0.63,Lenovo,Periféricos,9
+557,Analista de Datos / Desarrollador IA,6550.01,0.71,Corsair,Tarjetas Gráficas,18
+558,Estudiante Ingeniería UNT (Arranque en Frío),3086.05,0.63,Intel,Periféricos,0
+559,Gamer Entusiasta eSports Trujillo,8735.49,0.82,AMD,Tarjetas Gráficas,20
+560,Gestor PYME Retail / Ofimática,2219.03,0.47,Gigabyte,Memorias RAM,14
+561,Estudiante Ingeniería UNT (Arranque en Frío),1718.83,0.71,Gigabyte,Procesadores,0
+562,Gamer Entusiasta eSports Trujillo,9427.9,0.85,Gigabyte,Tarjetas Gráficas,7
+563,Estudiante Ingeniería UNT (Arranque en Frío),4322.93,0.68,HP,Laptops,0
+564,Arquitecto CAD / Renderizado 3D Lumion,6055.96,0.92,Lenovo,Placas Madre,16
+565,Arquitecto CAD / Renderizado 3D Lumion,5242.58,0.77,HP,Procesadores,8
+566,Gamer Entusiasta eSports Trujillo,3672.86,0.98,Lenovo,Memorias RAM,9
+567,Estudiante Ingeniería UNT (Arranque en Frío),2661.3,0.79,Intel,Tarjetas Gráficas,0
+568,Gamer Entusiasta eSports Trujillo,9414.82,0.86,Corsair,Tarjetas Gráficas,5
+569,Arquitecto CAD / Renderizado 3D Lumion,3792.82,0.93,Lenovo,Tarjetas Gráficas,4
+570,Analista de Datos / Desarrollador IA,5328.05,0.97,ASUS,Placas Madre,18
+571,Analista de Datos / Desarrollador IA,6398.84,0.93,NVIDIA,Procesadores,6
+572,Estudiante Ingeniería UNT (Arranque en Frío),3839.57,0.69,AMD,Tarjetas Gráficas,0
+573,Diseñador Gráfico & Multimedia,2341.45,0.49,Dell,Monitores,1
+574,Analista de Datos / Desarrollador IA,4863.41,0.73,NVIDIA,Placas Madre,20
+575,Analista de Datos / Desarrollador IA,7751.32,0.81,Corsair,Laptops,16
+576,Gamer Entusiasta eSports Trujillo,10121.04,0.8,NVIDIA,Procesadores,4
+577,Estudiante Ingeniería UNT (Arranque en Frío),2908.06,0.58,Lenovo,Memorias RAM,0
+578,Diseñador Gráfico & Multimedia,2647.18,0.37,Lenovo,Procesadores,2
+579,Estudiante Ingeniería UNT (Arranque en Frío),2976.61,0.61,Kingston,Tarjetas Gráficas,0
+580,Analista de Datos / Desarrollador IA,6261.15,0.8,Intel,Periféricos,11
+581,Gamer Entusiasta eSports Trujillo,8724.51,0.92,Lenovo,Memorias RAM,13
+582,Diseñador Gráfico & Multimedia,636.64,0.47,Gigabyte,Monitores,3
+583,Gamer Entusiasta eSports Trujillo,3558.96,0.92,NVIDIA,Procesadores,6
+584,Gamer Entusiasta eSports Trujillo,8674.46,0.88,NVIDIA,Memorias RAM,9
+585,Analista de Datos / Desarrollador IA,9996.8,0.78,Gigabyte,Procesadores,7
+586,Estudiante Ingeniería UNT (Arranque en Frío),4596.84,0.75,NVIDIA,Monitores,0
+587,Estudiante Ingeniería UNT (Arranque en Frío),3154.04,0.57,HP,Laptops,0
+588,Arquitecto CAD / Renderizado 3D Lumion,6058.82,0.78,Intel,Laptops,16
+589,Estudiante Ingeniería UNT (Arranque en Frío),3202.81,0.76,AMD,Laptops,0
+590,Estudiante Ingeniería UNT (Arranque en Frío),4118.75,0.57,ASUS,Procesadores,0
+591,Analista de Datos / Desarrollador IA,5815.51,0.92,Logitech,Memorias RAM,24
+592,Gestor PYME Retail / Ofimática,1803.88,0.31,Dell,Laptops,1
+593,Diseñador Gráfico & Multimedia,494.36,0.57,MSI,Placas Madre,5
+594,Gamer Entusiasta eSports Trujillo,7246.0,0.84,Gigabyte,Placas Madre,16
+595,Arquitecto CAD / Renderizado 3D Lumion,9588.36,0.79,Corsair,Laptops,17
+596,Gestor PYME Retail / Ofimática,1704.52,0.42,Lenovo,Laptops,9
+597,Gestor PYME Retail / Ofimática,2684.11,0.3,Logitech,Tarjetas Gráficas,14
+598,Analista de Datos / Desarrollador IA,8692.62,0.93,Logitech,Periféricos,18
+599,Arquitecto CAD / Renderizado 3D Lumion,8851.1,0.97,Intel,Placas Madre,12
+600,Diseñador Gráfico & Multimedia,2249.91,0.47,MSI,Periféricos,7
+601,Estudiante Ingeniería UNT (Arranque en Frío),3060.02,0.61,Intel,Placas Madre,0
+602,Estudiante Ingeniería UNT (Arranque en Frío),1772.8,0.56,HP,Laptops,0
+603,Gestor PYME Retail / Ofimática,2529.09,0.47,Corsair,Monitores,6
+604,Gamer Entusiasta eSports Trujillo,4686.73,0.94,AMD,Tarjetas Gráficas,8
+605,Arquitecto CAD / Renderizado 3D Lumion,7652.42,0.87,Gigabyte,Memorias RAM,23
+606,Analista de Datos / Desarrollador IA,11388.45,0.75,NVIDIA,Tarjetas Gráficas,4
+607,Gestor PYME Retail / Ofimática,2732.86,0.41,Gigabyte,Tarjetas Gráficas,2
+608,Gestor PYME Retail / Ofimática,2731.57,0.59,Dell,Placas Madre,7
+609,Arquitecto CAD / Renderizado 3D Lumion,9918.65,0.79,Dell,Laptops,17
+610,Estudiante Ingeniería UNT (Arranque en Frío),3514.19,0.74,HP,Laptops,0
+611,Gamer Entusiasta eSports Trujillo,9154.58,0.73,Gigabyte,Periféricos,21
+612,Gestor PYME Retail / Ofimática,2969.6,0.42,Kingston,Laptops,8
+613,Arquitecto CAD / Renderizado 3D Lumion,9952.96,0.78,NVIDIA,Tarjetas Gráficas,21
+614,Gamer Entusiasta eSports Trujillo,11682.19,0.96,AMD,Periféricos,12
+615,Arquitecto CAD / Renderizado 3D Lumion,10280.57,0.89,Kingston,Periféricos,24
+616,Estudiante Ingeniería UNT (Arranque en Frío),3248.14,0.62,AMD,Tarjetas Gráficas,0
+617,Gestor PYME Retail / Ofimática,695.95,0.51,AMD,Monitores,3
+618,Estudiante Ingeniería UNT (Arranque en Frío),3184.52,0.72,AMD,Procesadores,0
+619,Gestor PYME Retail / Ofimática,595.3,0.64,Intel,Memorias RAM,6
+620,Arquitecto CAD / Renderizado 3D Lumion,8812.44,0.72,AMD,Procesadores,18
+621,Arquitecto CAD / Renderizado 3D Lumion,5717.91,0.81,NVIDIA,Monitores,8
+622,Diseñador Gráfico & Multimedia,1087.86,0.63,Intel,Memorias RAM,4
+623,Analista de Datos / Desarrollador IA,11928.07,0.82,MSI,Periféricos,17
+624,Analista de Datos / Desarrollador IA,8549.69,0.89,Kingston,Procesadores,23
+625,Gestor PYME Retail / Ofimática,2251.73,0.39,HP,Procesadores,11
+626,Arquitecto CAD / Renderizado 3D Lumion,5540.69,0.89,Corsair,Procesadores,8
+627,Gamer Entusiasta eSports Trujillo,3721.55,0.89,Intel,Procesadores,6
+628,Arquitecto CAD / Renderizado 3D Lumion,6001.88,0.84,MSI,Tarjetas Gráficas,19
+629,Gestor PYME Retail / Ofimática,2273.33,0.51,HP,Memorias RAM,2
+630,Gamer Entusiasta eSports Trujillo,10878.75,0.93,MSI,Monitores,10
+631,Arquitecto CAD / Renderizado 3D Lumion,10335.84,0.82,MSI,Procesadores,6
+632,Gestor PYME Retail / Ofimática,1703.01,0.54,Intel,Procesadores,4
+633,Gamer Entusiasta eSports Trujillo,7128.63,0.94,Corsair,Monitores,18
+634,Gamer Entusiasta eSports Trujillo,11387.51,0.82,MSI,Laptops,12
+635,Estudiante Ingeniería UNT (Arranque en Frío),1557.96,0.85,HP,Tarjetas Gráficas,0
+636,Diseñador Gráfico & Multimedia,559.58,0.46,Intel,Placas Madre,8
+637,Diseñador Gráfico & Multimedia,1505.08,0.41,AMD,Laptops,6
+638,Gamer Entusiasta eSports Trujillo,8692.21,0.88,HP,Monitores,20
+639,Gamer Entusiasta eSports Trujillo,9427.29,0.77,Gigabyte,Placas Madre,14
+640,Arquitecto CAD / Renderizado 3D Lumion,6714.09,0.78,Dell,Procesadores,11
+641,Arquitecto CAD / Renderizado 3D Lumion,6515.68,0.81,MSI,Memorias RAM,20
+642,Gamer Entusiasta eSports Trujillo,11363.27,0.81,Intel,Periféricos,20
+643,Estudiante Ingeniería UNT (Arranque en Frío),4340.2,0.62,Kingston,Placas Madre,0
+644,Diseñador Gráfico & Multimedia,701.41,0.55,Logitech,Periféricos,13
+645,Estudiante Ingeniería UNT (Arranque en Frío),1615.99,0.55,MSI,Periféricos,0
+646,Analista de Datos / Desarrollador IA,5059.12,0.89,NVIDIA,Placas Madre,4
+647,Arquitecto CAD / Renderizado 3D Lumion,11053.21,0.96,Intel,Placas Madre,17
+648,Arquitecto CAD / Renderizado 3D Lumion,9454.67,0.76,Logitech,Periféricos,14
+649,Gamer Entusiasta eSports Trujillo,6232.28,0.76,Gigabyte,Memorias RAM,13
+650,Gestor PYME Retail / Ofimática,2245.51,0.59,AMD,Laptops,11
+651,Analista de Datos / Desarrollador IA,8445.32,0.72,Intel,Tarjetas Gráficas,10
+652,Arquitecto CAD / Renderizado 3D Lumion,7008.3,0.76,Kingston,Memorias RAM,21
+653,Arquitecto CAD / Renderizado 3D Lumion,6940.97,0.72,Gigabyte,Laptops,14
+654,Gestor PYME Retail / Ofimática,1315.32,0.64,Intel,Procesadores,1
+655,Analista de Datos / Desarrollador IA,4357.79,0.82,Gigabyte,Laptops,23
+656,Analista de Datos / Desarrollador IA,6575.67,0.72,NVIDIA,Placas Madre,22
+657,Arquitecto CAD / Renderizado 3D Lumion,9048.0,0.8,Dell,Laptops,8
+658,Gestor PYME Retail / Ofimática,2322.46,0.36,Intel,Periféricos,11
+659,Arquitecto CAD / Renderizado 3D Lumion,6345.13,0.84,Logitech,Laptops,23
+660,Gamer Entusiasta eSports Trujillo,4068.58,0.8,Intel,Periféricos,15
+661,Arquitecto CAD / Renderizado 3D Lumion,11353.23,0.84,ASUS,Procesadores,8
+662,Estudiante Ingeniería UNT (Arranque en Frío),1505.3,0.56,HP,Procesadores,0
+663,Gamer Entusiasta eSports Trujillo,6284.79,0.92,Dell,Laptops,9
+664,Estudiante Ingeniería UNT (Arranque en Frío),2174.15,0.82,Logitech,Memorias RAM,0
+665,Gamer Entusiasta eSports Trujillo,11029.61,0.89,AMD,Periféricos,22
+666,Analista de Datos / Desarrollador IA,5301.26,0.81,Intel,Procesadores,17
+667,Diseñador Gráfico & Multimedia,690.34,0.47,Dell,Placas Madre,4
+668,Estudiante Ingeniería UNT (Arranque en Frío),2749.45,0.8,MSI,Periféricos,0
+669,Arquitecto CAD / Renderizado 3D Lumion,11402.7,0.77,Dell,Memorias RAM,9
+670,Gamer Entusiasta eSports Trujillo,8018.94,0.73,Dell,Monitores,16
+671,Estudiante Ingeniería UNT (Arranque en Frío),4466.84,0.69,Intel,Laptops,0
+672,Estudiante Ingeniería UNT (Arranque en Frío),4742.5,0.84,Lenovo,Monitores,0
+673,Gamer Entusiasta eSports Trujillo,7804.98,0.85,ASUS,Periféricos,15
+674,Gamer Entusiasta eSports Trujillo,6363.53,0.86,Logitech,Placas Madre,6
+675,Gestor PYME Retail / Ofimática,1815.71,0.31,AMD,Placas Madre,14
+676,Diseñador Gráfico & Multimedia,1719.74,0.56,Logitech,Memorias RAM,8
+677,Gestor PYME Retail / Ofimática,2599.4,0.44,Intel,Laptops,14
+678,Arquitecto CAD / Renderizado 3D Lumion,8977.68,0.92,Corsair,Placas Madre,13
+679,Analista de Datos / Desarrollador IA,7709.08,0.94,Kingston,Monitores,5
+680,Gamer Entusiasta eSports Trujillo,5987.24,0.96,NVIDIA,Periféricos,16
+681,Gamer Entusiasta eSports Trujillo,11702.91,0.72,Intel,Monitores,10
+682,Diseñador Gráfico & Multimedia,1040.01,0.49,Intel,Procesadores,2
+683,Analista de Datos / Desarrollador IA,11446.9,0.71,Intel,Procesadores,12
+684,Analista de Datos / Desarrollador IA,11460.57,0.97,ASUS,Memorias RAM,21
+685,Estudiante Ingeniería UNT (Arranque en Frío),3144.67,0.6,Gigabyte,Periféricos,0
+686,Gestor PYME Retail / Ofimática,909.16,0.51,Gigabyte,Periféricos,14
+687,Gestor PYME Retail / Ofimática,2048.49,0.4,Intel,Periféricos,5
+688,Arquitecto CAD / Renderizado 3D Lumion,7802.94,0.96,Gigabyte,Procesadores,24
+689,Arquitecto CAD / Renderizado 3D Lumion,8187.99,0.72,Corsair,Periféricos,10
+690,Estudiante Ingeniería UNT (Arranque en Frío),2041.86,0.6,HP,Tarjetas Gráficas,0
+691,Estudiante Ingeniería UNT (Arranque en Frío),2985.32,0.59,Intel,Laptops,0
+692,Analista de Datos / Desarrollador IA,6005.62,0.72,MSI,Placas Madre,24
+693,Estudiante Ingeniería UNT (Arranque en Frío),2091.6,0.74,AMD,Placas Madre,0
+694,Diseñador Gráfico & Multimedia,891.4,0.47,MSI,Memorias RAM,3
+695,Gestor PYME Retail / Ofimática,3025.57,0.38,Kingston,Memorias RAM,10
+696,Arquitecto CAD / Renderizado 3D Lumion,3748.17,0.9,Lenovo,Placas Madre,15
+697,Gamer Entusiasta eSports Trujillo,6486.72,0.95,Corsair,Procesadores,21
+698,Arquitecto CAD / Renderizado 3D Lumion,4061.96,0.79,Corsair,Memorias RAM,18
+699,Estudiante Ingeniería UNT (Arranque en Frío),4382.5,0.74,ASUS,Tarjetas Gráficas,0
+700,Estudiante Ingeniería UNT (Arranque en Frío),3935.45,0.64,Intel,Memorias RAM,0
+701,Gamer Entusiasta eSports Trujillo,5582.63,0.81,Logitech,Procesadores,19
+702,Diseñador Gráfico & Multimedia,1766.99,0.37,MSI,Laptops,6
+703,Diseñador Gráfico & Multimedia,2341.76,0.55,Lenovo,Tarjetas Gráficas,11
+704,Gestor PYME Retail / Ofimática,1065.6,0.46,Logitech,Memorias RAM,3
+705,Analista de Datos / Desarrollador IA,5145.03,0.97,ASUS,Laptops,21
+706,Gestor PYME Retail / Ofimática,3162.35,0.36,Lenovo,Laptops,14
+707,Gamer Entusiasta eSports Trujillo,7416.39,0.84,Corsair,Monitores,7
+708,Estudiante Ingeniería UNT (Arranque en Frío),3277.0,0.56,HP,Placas Madre,0
+709,Analista de Datos / Desarrollador IA,9291.15,0.8,Intel,Procesadores,16
+710,Diseñador Gráfico & Multimedia,3074.91,0.58,AMD,Placas Madre,6
+711,Estudiante Ingeniería UNT (Arranque en Frío),3166.02,0.69,ASUS,Monitores,0
+712,Arquitecto CAD / Renderizado 3D Lumion,6902.59,0.79,Corsair,Procesadores,3
+713,Arquitecto CAD / Renderizado 3D Lumion,11512.28,0.88,HP,Monitores,21
+714,Estudiante Ingeniería UNT (Arranque en Frío),3303.62,0.72,Gigabyte,Laptops,0
+715,Arquitecto CAD / Renderizado 3D Lumion,9491.14,0.88,Lenovo,Memorias RAM,14
+716,Gamer Entusiasta eSports Trujillo,5566.73,0.88,AMD,Procesadores,12
+717,Diseñador Gráfico & Multimedia,1399.12,0.36,Corsair,Procesadores,10
+718,Gestor PYME Retail / Ofimática,1132.8,0.62,MSI,Laptops,14
+719,Diseñador Gráfico & Multimedia,1916.93,0.39,Dell,Tarjetas Gráficas,3
+720,Estudiante Ingeniería UNT (Arranque en Frío),2944.78,0.69,Gigabyte,Laptops,0
+721,Estudiante Ingeniería UNT (Arranque en Frío),4692.37,0.81,Logitech,Monitores,0
+722,Estudiante Ingeniería UNT (Arranque en Frío),4160.69,0.6,MSI,Laptops,0
+723,Diseñador Gráfico & Multimedia,2738.55,0.46,Lenovo,Procesadores,8
+724,Estudiante Ingeniería UNT (Arranque en Frío),3599.87,0.61,Logitech,Laptops,0
+725,Gamer Entusiasta eSports Trujillo,11268.88,0.84,MSI,Placas Madre,16
+726,Arquitecto CAD / Renderizado 3D Lumion,7222.3,0.71,MSI,Laptops,4
+727,Estudiante Ingeniería UNT (Arranque en Frío),2714.73,0.83,AMD,Memorias RAM,0
+728,Estudiante Ingeniería UNT (Arranque en Frío),4422.62,0.74,AMD,Periféricos,0
+729,Analista de Datos / Desarrollador IA,10026.74,0.88,Dell,Laptops,7
+730,Estudiante Ingeniería UNT (Arranque en Frío),2781.72,0.65,MSI,Laptops,0
+731,Arquitecto CAD / Renderizado 3D Lumion,11769.52,0.92,ASUS,Periféricos,15
+732,Arquitecto CAD / Renderizado 3D Lumion,6142.71,0.84,Lenovo,Memorias RAM,7
+733,Analista de Datos / Desarrollador IA,3642.97,0.76,Lenovo,Tarjetas Gráficas,15
+734,Gamer Entusiasta eSports Trujillo,8037.36,0.82,Gigabyte,Tarjetas Gráficas,23
+735,Diseñador Gráfico & Multimedia,1072.81,0.56,HP,Tarjetas Gráficas,2
+736,Gamer Entusiasta eSports Trujillo,7480.63,0.93,Gigabyte,Placas Madre,24
+737,Estudiante Ingeniería UNT (Arranque en Frío),3954.4,0.61,Corsair,Memorias RAM,0
+738,Gamer Entusiasta eSports Trujillo,3935.15,0.84,ASUS,Placas Madre,8
+739,Gamer Entusiasta eSports Trujillo,7835.22,0.73,Lenovo,Placas Madre,24
+740,Gestor PYME Retail / Ofimática,463.33,0.47,ASUS,Monitores,3
+741,Diseñador Gráfico & Multimedia,2698.95,0.5,AMD,Placas Madre,11
+742,Gestor PYME Retail / Ofimática,1450.38,0.37,ASUS,Memorias RAM,13
+743,Gamer Entusiasta eSports Trujillo,9069.53,0.9,MSI,Procesadores,3
+744,Arquitecto CAD / Renderizado 3D Lumion,7765.85,0.78,Gigabyte,Procesadores,21
+745,Diseñador Gráfico & Multimedia,2778.79,0.36,Corsair,Tarjetas Gráficas,8
+746,Gamer Entusiasta eSports Trujillo,4256.96,0.96,ASUS,Placas Madre,3
+747,Gestor PYME Retail / Ofimática,1480.1,0.65,HP,Periféricos,14
+748,Diseñador Gráfico & Multimedia,1760.09,0.61,AMD,Tarjetas Gráficas,14
+749,Gamer Entusiasta eSports Trujillo,6079.1,0.77,MSI,Placas Madre,3
+750,Gamer Entusiasta eSports Trujillo,5421.92,0.9,ASUS,Tarjetas Gráficas,21
+751,Analista de Datos / Desarrollador IA,6428.17,0.92,HP,Laptops,20
+752,Estudiante Ingeniería UNT (Arranque en Frío),3258.26,0.8,Lenovo,Memorias RAM,0
+753,Gamer Entusiasta eSports Trujillo,8590.43,0.82,Intel,Placas Madre,15
+754,Arquitecto CAD / Renderizado 3D Lumion,5174.46,0.8,Intel,Monitores,24
+755,Estudiante Ingeniería UNT (Arranque en Frío),2315.1,0.69,Logitech,Placas Madre,0
+756,Analista de Datos / Desarrollador IA,7856.15,0.92,Kingston,Placas Madre,24
+757,Gamer Entusiasta eSports Trujillo,4996.71,0.85,Corsair,Memorias RAM,23
+758,Gestor PYME Retail / Ofimática,1473.23,0.5,Intel,Laptops,7
+759,Gestor PYME Retail / Ofimática,2249.89,0.37,Gigabyte,Procesadores,5
+760,Arquitecto CAD / Renderizado 3D Lumion,8736.38,0.85,Gigabyte,Memorias RAM,10
+761,Gestor PYME Retail / Ofimática,2024.01,0.45,HP,Laptops,13
+762,Arquitecto CAD / Renderizado 3D Lumion,9557.95,0.76,Gigabyte,Tarjetas Gráficas,16
+763,Analista de Datos / Desarrollador IA,9800.07,0.85,Corsair,Placas Madre,4
+764,Gestor PYME Retail / Ofimática,814.41,0.39,Intel,Periféricos,7
+765,Arquitecto CAD / Renderizado 3D Lumion,7137.64,0.87,AMD,Placas Madre,20
+766,Analista de Datos / Desarrollador IA,8139.44,0.85,Corsair,Procesadores,21
+767,Gamer Entusiasta eSports Trujillo,10824.51,0.94,Gigabyte,Tarjetas Gráficas,8
+768,Gestor PYME Retail / Ofimática,536.08,0.36,HP,Laptops,7
+769,Analista de Datos / Desarrollador IA,7058.76,0.87,ASUS,Tarjetas Gráficas,15
+770,Gestor PYME Retail / Ofimática,2150.01,0.43,AMD,Tarjetas Gráficas,11
+771,Arquitecto CAD / Renderizado 3D Lumion,11388.89,0.87,ASUS,Procesadores,14
+772,Analista de Datos / Desarrollador IA,9263.33,0.88,Kingston,Laptops,14
+773,Analista de Datos / Desarrollador IA,8788.18,0.91,Gigabyte,Procesadores,23
+774,Gamer Entusiasta eSports Trujillo,10290.99,0.87,Dell,Laptops,24
+775,Arquitecto CAD / Renderizado 3D Lumion,8923.26,0.75,MSI,Memorias RAM,3
+776,Arquitecto CAD / Renderizado 3D Lumion,5075.39,0.8,Logitech,Memorias RAM,14
+777,Estudiante Ingeniería UNT (Arranque en Frío),3545.54,0.58,NVIDIA,Periféricos,0
+778,Estudiante Ingeniería UNT (Arranque en Frío),2560.69,0.74,Kingston,Placas Madre,0
+779,Estudiante Ingeniería UNT (Arranque en Frío),2404.88,0.81,Corsair,Procesadores,0
+780,Gestor PYME Retail / Ofimática,2234.5,0.6,AMD,Memorias RAM,11
+781,Gestor PYME Retail / Ofimática,446.86,0.5,Lenovo,Periféricos,12
+782,Gestor PYME Retail / Ofimática,1171.26,0.49,Corsair,Monitores,14
+783,Gestor PYME Retail / Ofimática,2346.89,0.31,MSI,Tarjetas Gráficas,3
+784,Arquitecto CAD / Renderizado 3D Lumion,11089.31,0.84,Kingston,Tarjetas Gráficas,6
+785,Gamer Entusiasta eSports Trujillo,6032.95,0.82,Corsair,Memorias RAM,13
+786,Diseñador Gráfico & Multimedia,2563.63,0.44,HP,Procesadores,12
+787,Gestor PYME Retail / Ofimática,388.27,0.48,ASUS,Placas Madre,14
+788,Estudiante Ingeniería UNT (Arranque en Frío),3512.39,0.78,ASUS,Periféricos,0
+789,Gamer Entusiasta eSports Trujillo,7555.82,0.76,Dell,Tarjetas Gráficas,9
+790,Estudiante Ingeniería UNT (Arranque en Frío),4509.81,0.71,Kingston,Placas Madre,0
+791,Arquitecto CAD / Renderizado 3D Lumion,6586.4,0.97,Gigabyte,Tarjetas Gráficas,9
+792,Gamer Entusiasta eSports Trujillo,11044.27,0.75,Logitech,Periféricos,9
+793,Gestor PYME Retail / Ofimática,1143.94,0.52,Dell,Laptops,14
+794,Analista de Datos / Desarrollador IA,11896.48,0.94,AMD,Memorias RAM,9
+795,Arquitecto CAD / Renderizado 3D Lumion,7666.63,0.83,Kingston,Procesadores,8
+796,Gamer Entusiasta eSports Trujillo,5046.27,0.86,Gigabyte,Tarjetas Gráficas,14
+797,Gestor PYME Retail / Ofimática,810.92,0.63,Lenovo,Memorias RAM,3
+798,Arquitecto CAD / Renderizado 3D Lumion,11819.29,0.78,Logitech,Placas Madre,8
+799,Analista de Datos / Desarrollador IA,11152.56,0.73,HP,Procesadores,24
+800,Arquitecto CAD / Renderizado 3D Lumion,7237.77,0.75,MSI,Procesadores,22
+801,Gamer Entusiasta eSports Trujillo,9181.17,0.97,HP,Memorias RAM,13
+802,Estudiante Ingeniería UNT (Arranque en Frío),4430.06,0.74,NVIDIA,Memorias RAM,0
+803,Gestor PYME Retail / Ofimática,2724.5,0.56,MSI,Periféricos,7
+804,Estudiante Ingeniería UNT (Arranque en Frío),2893.15,0.59,HP,Memorias RAM,0
+805,Arquitecto CAD / Renderizado 3D Lumion,5192.3,0.78,NVIDIA,Laptops,16
+806,Arquitecto CAD / Renderizado 3D Lumion,7778.11,0.95,Intel,Laptops,5
+807,Analista de Datos / Desarrollador IA,7354.29,0.89,Gigabyte,Procesadores,15
+808,Analista de Datos / Desarrollador IA,10046.93,0.79,MSI,Memorias RAM,9
+809,Estudiante Ingeniería UNT (Arranque en Frío),4410.55,0.76,HP,Monitores,0
+810,Estudiante Ingeniería UNT (Arranque en Frío),2610.02,0.82,Gigabyte,Monitores,0
+811,Gestor PYME Retail / Ofimática,3067.61,0.44,AMD,Laptops,2
+812,Analista de Datos / Desarrollador IA,6991.77,0.78,Gigabyte,Procesadores,23
+813,Gestor PYME Retail / Ofimática,2573.03,0.53,Gigabyte,Tarjetas Gráficas,14
+814,Analista de Datos / Desarrollador IA,5329.93,0.89,Intel,Periféricos,17
+815,Gestor PYME Retail / Ofimática,2270.23,0.41,Intel,Monitores,4
+816,Arquitecto CAD / Renderizado 3D Lumion,6947.17,0.8,NVIDIA,Memorias RAM,3
+817,Gamer Entusiasta eSports Trujillo,4688.97,0.95,MSI,Laptops,11
+818,Gestor PYME Retail / Ofimática,2116.83,0.39,Kingston,Procesadores,7
+819,Estudiante Ingeniería UNT (Arranque en Frío),3114.02,0.61,Logitech,Memorias RAM,0
+820,Gamer Entusiasta eSports Trujillo,4091.93,0.72,Intel,Procesadores,11
+821,Analista de Datos / Desarrollador IA,11391.74,0.91,AMD,Tarjetas Gráficas,17
+822,Gamer Entusiasta eSports Trujillo,8539.25,0.76,Intel,Monitores,18
+823,Analista de Datos / Desarrollador IA,8610.6,0.8,AMD,Procesadores,19
+824,Arquitecto CAD / Renderizado 3D Lumion,5402.56,0.77,Corsair,Periféricos,7
+825,Estudiante Ingeniería UNT (Arranque en Frío),1573.36,0.63,Lenovo,Periféricos,0
+826,Estudiante Ingeniería UNT (Arranque en Frío),3190.99,0.66,Dell,Procesadores,0
+827,Diseñador Gráfico & Multimedia,418.56,0.38,Lenovo,Tarjetas Gráficas,10
+828,Diseñador Gráfico & Multimedia,1905.07,0.63,AMD,Placas Madre,11
+829,Arquitecto CAD / Renderizado 3D Lumion,3625.51,0.88,Lenovo,Periféricos,5
+830,Estudiante Ingeniería UNT (Arranque en Frío),3234.12,0.68,Logitech,Memorias RAM,0
+831,Estudiante Ingeniería UNT (Arranque en Frío),3942.22,0.73,MSI,Tarjetas Gráficas,0
+832,Arquitecto CAD / Renderizado 3D Lumion,4092.43,0.74,Corsair,Periféricos,17
+833,Arquitecto CAD / Renderizado 3D Lumion,9199.71,0.73,HP,Monitores,21
+834,Arquitecto CAD / Renderizado 3D Lumion,4480.72,0.76,Gigabyte,Tarjetas Gráficas,12
+835,Gestor PYME Retail / Ofimática,1570.46,0.49,ASUS,Monitores,10
+836,Analista de Datos / Desarrollador IA,6748.57,0.95,NVIDIA,Memorias RAM,23
+837,Estudiante Ingeniería UNT (Arranque en Frío),2987.79,0.63,Dell,Monitores,0
+838,Analista de Datos / Desarrollador IA,10807.15,0.79,MSI,Procesadores,7
+839,Gamer Entusiasta eSports Trujillo,9464.79,0.92,Gigabyte,Laptops,24
+840,Estudiante Ingeniería UNT (Arranque en Frío),3501.94,0.73,MSI,Memorias RAM,0
+841,Analista de Datos / Desarrollador IA,6006.65,0.71,Corsair,Tarjetas Gráficas,7
+842,Estudiante Ingeniería UNT (Arranque en Frío),2473.96,0.74,Corsair,Procesadores,0
+843,Estudiante Ingeniería UNT (Arranque en Frío),4097.41,0.56,Lenovo,Monitores,0
+844,Estudiante Ingeniería UNT (Arranque en Frío),1611.78,0.65,ASUS,Placas Madre,0
+845,Diseñador Gráfico & Multimedia,2333.64,0.39,ASUS,Procesadores,12
+846,Analista de Datos / Desarrollador IA,10910.14,0.83,MSI,Laptops,13
+847,Gamer Entusiasta eSports Trujillo,5365.01,0.79,MSI,Procesadores,17
+848,Gestor PYME Retail / Ofimática,1065.4,0.6,AMD,Periféricos,10
+849,Arquitecto CAD / Renderizado 3D Lumion,9119.31,0.87,Corsair,Laptops,24
+850,Diseñador Gráfico & Multimedia,600.61,0.38,NVIDIA,Placas Madre,3
+851,Analista de Datos / Desarrollador IA,4017.58,0.75,Logitech,Placas Madre,16
+852,Gamer Entusiasta eSports Trujillo,4415.76,0.94,HP,Procesadores,6
+853,Gestor PYME Retail / Ofimática,2832.66,0.64,Lenovo,Memorias RAM,2
+854,Analista de Datos / Desarrollador IA,6534.02,0.78,MSI,Memorias RAM,20
+855,Gestor PYME Retail / Ofimática,2598.02,0.44,ASUS,Memorias RAM,3
+856,Gestor PYME Retail / Ofimática,1271.23,0.39,NVIDIA,Monitores,6
+857,Estudiante Ingeniería UNT (Arranque en Frío),4559.18,0.68,Intel,Monitores,0
+858,Arquitecto CAD / Renderizado 3D Lumion,4197.0,0.76,Corsair,Placas Madre,7
+859,Estudiante Ingeniería UNT (Arranque en Frío),4722.41,0.62,MSI,Periféricos,0
+860,Arquitecto CAD / Renderizado 3D Lumion,11226.24,0.87,Logitech,Laptops,16
+861,Arquitecto CAD / Renderizado 3D Lumion,8447.29,0.87,Intel,Monitores,6
+862,Estudiante Ingeniería UNT (Arranque en Frío),4502.51,0.73,Logitech,Monitores,0
+863,Arquitecto CAD / Renderizado 3D Lumion,9587.97,0.94,AMD,Tarjetas Gráficas,18
+864,Gestor PYME Retail / Ofimática,2409.87,0.5,NVIDIA,Procesadores,3
+865,Gestor PYME Retail / Ofimática,2304.1,0.35,AMD,Monitores,4
+866,Estudiante Ingeniería UNT (Arranque en Frío),4170.04,0.79,HP,Monitores,0
+867,Estudiante Ingeniería UNT (Arranque en Frío),1729.57,0.66,NVIDIA,Laptops,0
+868,Estudiante Ingeniería UNT (Arranque en Frío),2885.77,0.8,ASUS,Tarjetas Gráficas,0
+869,Gestor PYME Retail / Ofimática,1780.15,0.47,Kingston,Placas Madre,11
+870,Gamer Entusiasta eSports Trujillo,4115.33,0.83,ASUS,Tarjetas Gráficas,5
+871,Diseñador Gráfico & Multimedia,1921.91,0.56,HP,Periféricos,13
+872,Gestor PYME Retail / Ofimática,2726.8,0.4,ASUS,Placas Madre,2
+873,Gestor PYME Retail / Ofimática,2549.21,0.56,Dell,Placas Madre,7
+874,Estudiante Ingeniería UNT (Arranque en Frío),4649.93,0.6,Corsair,Monitores,0
+875,Gamer Entusiasta eSports Trujillo,11161.56,0.83,Gigabyte,Monitores,6
+876,Diseñador Gráfico & Multimedia,1029.52,0.56,Gigabyte,Monitores,5
+877,Estudiante Ingeniería UNT (Arranque en Frío),1944.32,0.57,Gigabyte,Laptops,0
+878,Gamer Entusiasta eSports Trujillo,5316.31,0.8,AMD,Memorias RAM,24
+879,Arquitecto CAD / Renderizado 3D Lumion,9959.05,0.96,Logitech,Periféricos,22
+880,Gamer Entusiasta eSports Trujillo,7909.31,0.76,ASUS,Memorias RAM,7
+881,Gestor PYME Retail / Ofimática,1006.61,0.54,Kingston,Laptops,14
+882,Gamer Entusiasta eSports Trujillo,10310.82,0.94,Dell,Procesadores,14
+883,Gestor PYME Retail / Ofimática,2128.25,0.47,Kingston,Placas Madre,5
+884,Analista de Datos / Desarrollador IA,7848.27,0.96,MSI,Procesadores,20
+885,Gamer Entusiasta eSports Trujillo,9529.97,0.8,Logitech,Periféricos,12
+886,Gestor PYME Retail / Ofimática,980.0,0.37,ASUS,Placas Madre,2
+887,Diseñador Gráfico & Multimedia,2817.44,0.48,Dell,Monitores,8
+888,Diseñador Gráfico & Multimedia,2461.23,0.41,Dell,Placas Madre,7
+889,Gestor PYME Retail / Ofimática,3025.05,0.41,ASUS,Monitores,7
+890,Gamer Entusiasta eSports Trujillo,5087.51,0.82,Intel,Memorias RAM,14
+891,Estudiante Ingeniería UNT (Arranque en Frío),4672.63,0.6,Lenovo,Periféricos,0
+892,Estudiante Ingeniería UNT (Arranque en Frío),1995.65,0.66,Corsair,Memorias RAM,0
+893,Arquitecto CAD / Renderizado 3D Lumion,4312.89,0.74,AMD,Placas Madre,15
+894,Arquitecto CAD / Renderizado 3D Lumion,4957.81,0.73,MSI,Periféricos,9
+895,Estudiante Ingeniería UNT (Arranque en Frío),2611.04,0.55,Gigabyte,Periféricos,0
+896,Arquitecto CAD / Renderizado 3D Lumion,11338.47,0.79,MSI,Monitores,12
+897,Estudiante Ingeniería UNT (Arranque en Frío),2910.36,0.73,MSI,Memorias RAM,0
+898,Gamer Entusiasta eSports Trujillo,11635.52,0.79,ASUS,Memorias RAM,19
+899,Estudiante Ingeniería UNT (Arranque en Frío),4737.4,0.71,ASUS,Monitores,0
+900,Analista de Datos / Desarrollador IA,11340.95,0.84,Logitech,Tarjetas Gráficas,18
+901,Arquitecto CAD / Renderizado 3D Lumion,4742.66,0.79,HP,Periféricos,16
+902,Analista de Datos / Desarrollador IA,8448.75,0.75,Intel,Periféricos,23
+903,Gestor PYME Retail / Ofimática,3149.73,0.57,HP,Tarjetas Gráficas,6
+904,Estudiante Ingeniería UNT (Arranque en Frío),2932.3,0.56,Dell,Monitores,0
+905,Diseñador Gráfico & Multimedia,1045.28,0.33,AMD,Placas Madre,2
+906,Analista de Datos / Desarrollador IA,8654.34,0.76,Dell,Periféricos,5
+907,Estudiante Ingeniería UNT (Arranque en Frío),4707.78,0.7,Dell,Memorias RAM,0
+908,Arquitecto CAD / Renderizado 3D Lumion,9942.87,0.79,HP,Periféricos,11
+909,Gestor PYME Retail / Ofimática,369.53,0.44,Gigabyte,Periféricos,8
+910,Gamer Entusiasta eSports Trujillo,11766.36,0.81,Dell,Tarjetas Gráficas,6
+911,Arquitecto CAD / Renderizado 3D Lumion,10197.22,0.84,Gigabyte,Procesadores,14
+912,Diseñador Gráfico & Multimedia,1541.1,0.59,HP,Placas Madre,14
+913,Gestor PYME Retail / Ofimática,1384.08,0.47,Gigabyte,Placas Madre,8
+914,Analista de Datos / Desarrollador IA,4872.96,0.91,Dell,Periféricos,16
+915,Gestor PYME Retail / Ofimática,989.21,0.56,NVIDIA,Procesadores,4
+916,Gestor PYME Retail / Ofimática,2497.59,0.51,ASUS,Placas Madre,9
+917,Arquitecto CAD / Renderizado 3D Lumion,4615.01,0.74,HP,Memorias RAM,15
+918,Gamer Entusiasta eSports Trujillo,11948.29,0.87,HP,Periféricos,22
+919,Gestor PYME Retail / Ofimática,675.45,0.33,MSI,Tarjetas Gráficas,10
+920,Estudiante Ingeniería UNT (Arranque en Frío),4509.44,0.81,Lenovo,Laptops,0
+921,Estudiante Ingeniería UNT (Arranque en Frío),2510.75,0.66,NVIDIA,Periféricos,0
+922,Estudiante Ingeniería UNT (Arranque en Frío),4293.03,0.64,Logitech,Tarjetas Gráficas,0
+923,Estudiante Ingeniería UNT (Arranque en Frío),4429.14,0.78,NVIDIA,Monitores,0
+924,Estudiante Ingeniería UNT (Arranque en Frío),2002.78,0.77,ASUS,Procesadores,0
+925,Gestor PYME Retail / Ofimática,2727.83,0.35,MSI,Laptops,10
+926,Gestor PYME Retail / Ofimática,1790.8,0.38,HP,Monitores,9
+927,Estudiante Ingeniería UNT (Arranque en Frío),2981.99,0.73,Corsair,Monitores,0
+928,Analista de Datos / Desarrollador IA,4326.65,0.76,AMD,Memorias RAM,19
+929,Analista de Datos / Desarrollador IA,8624.72,0.88,Lenovo,Memorias RAM,5
+930,Arquitecto CAD / Renderizado 3D Lumion,11387.45,0.94,Intel,Periféricos,5
+931,Arquitecto CAD / Renderizado 3D Lumion,7629.83,0.79,Lenovo,Periféricos,19
+932,Arquitecto CAD / Renderizado 3D Lumion,7092.42,0.81,NVIDIA,Tarjetas Gráficas,9
+933,Analista de Datos / Desarrollador IA,4829.59,0.73,AMD,Periféricos,6
+934,Arquitecto CAD / Renderizado 3D Lumion,5789.76,0.84,NVIDIA,Placas Madre,11
+935,Arquitecto CAD / Renderizado 3D Lumion,7453.53,0.7,Intel,Monitores,14
+936,Estudiante Ingeniería UNT (Arranque en Frío),1516.61,0.83,Logitech,Placas Madre,0
+937,Diseñador Gráfico & Multimedia,1187.73,0.36,Dell,Procesadores,14
+938,Gestor PYME Retail / Ofimática,482.91,0.61,Dell,Placas Madre,4
+939,Gamer Entusiasta eSports Trujillo,3964.24,0.79,Lenovo,Memorias RAM,20
+940,Diseñador Gráfico & Multimedia,1255.0,0.59,HP,Laptops,9
+941,Arquitecto CAD / Renderizado 3D Lumion,11661.52,0.89,NVIDIA,Monitores,5
+942,Analista de Datos / Desarrollador IA,6053.63,0.83,Dell,Tarjetas Gráficas,18
+943,Arquitecto CAD / Renderizado 3D Lumion,4812.51,0.81,Gigabyte,Periféricos,4
+944,Arquitecto CAD / Renderizado 3D Lumion,9313.35,0.75,Lenovo,Tarjetas Gráficas,24
+945,Gestor PYME Retail / Ofimática,644.87,0.51,Kingston,Tarjetas Gráficas,10
+946,Gestor PYME Retail / Ofimática,2217.09,0.62,Lenovo,Placas Madre,4
+947,Arquitecto CAD / Renderizado 3D Lumion,11031.68,0.71,NVIDIA,Laptops,12
+948,Estudiante Ingeniería UNT (Arranque en Frío),1962.15,0.74,NVIDIA,Placas Madre,0
+949,Arquitecto CAD / Renderizado 3D Lumion,9141.07,0.93,Logitech,Placas Madre,18
+950,Gestor PYME Retail / Ofimática,479.25,0.46,Intel,Monitores,7
+951,Estudiante Ingeniería UNT (Arranque en Frío),3606.87,0.85,AMD,Memorias RAM,0
+952,Analista de Datos / Desarrollador IA,11198.34,0.81,Intel,Monitores,5
+953,Gestor PYME Retail / Ofimática,364.74,0.53,Intel,Periféricos,4
+954,Estudiante Ingeniería UNT (Arranque en Frío),3209.62,0.73,AMD,Memorias RAM,0
+955,Gestor PYME Retail / Ofimática,2626.03,0.5,Gigabyte,Monitores,7
+956,Estudiante Ingeniería UNT (Arranque en Frío),4134.44,0.7,Dell,Monitores,0
+957,Analista de Datos / Desarrollador IA,3934.04,0.93,Dell,Placas Madre,21
+958,Gestor PYME Retail / Ofimática,1563.44,0.61,AMD,Monitores,3
+959,Gamer Entusiasta eSports Trujillo,6448.96,0.82,Kingston,Procesadores,21
+960,Arquitecto CAD / Renderizado 3D Lumion,9637.06,0.79,Corsair,Periféricos,8
+961,Diseñador Gráfico & Multimedia,2703.89,0.36,HP,Periféricos,9
+962,Estudiante Ingeniería UNT (Arranque en Frío),2623.54,0.79,Kingston,Procesadores,0
+963,Gamer Entusiasta eSports Trujillo,8809.02,0.77,Kingston,Procesadores,11
+964,Arquitecto CAD / Renderizado 3D Lumion,4431.16,0.74,Gigabyte,Monitores,12
+965,Gamer Entusiasta eSports Trujillo,3672.77,0.7,Logitech,Placas Madre,17
+966,Gamer Entusiasta eSports Trujillo,3702.51,0.78,MSI,Periféricos,3
+967,Gamer Entusiasta eSports Trujillo,11643.47,0.94,Corsair,Laptops,20
+968,Arquitecto CAD / Renderizado 3D Lumion,5681.67,0.88,Logitech,Procesadores,8
+969,Analista de Datos / Desarrollador IA,8669.56,0.86,Lenovo,Memorias RAM,18
+970,Estudiante Ingeniería UNT (Arranque en Frío),1624.6,0.65,Gigabyte,Tarjetas Gráficas,0
+971,Estudiante Ingeniería UNT (Arranque en Frío),3753.85,0.78,ASUS,Tarjetas Gráficas,0
+972,Gamer Entusiasta eSports Trujillo,8536.5,0.81,Dell,Placas Madre,5
+973,Gamer Entusiasta eSports Trujillo,10728.9,0.77,Lenovo,Tarjetas Gráficas,22
+974,Arquitecto CAD / Renderizado 3D Lumion,5848.17,0.94,Lenovo,Periféricos,22
+975,Gamer Entusiasta eSports Trujillo,7411.92,0.96,ASUS,Placas Madre,24
+976,Gamer Entusiasta eSports Trujillo,5964.85,0.82,NVIDIA,Tarjetas Gráficas,19
+977,Arquitecto CAD / Renderizado 3D Lumion,9614.84,0.88,Lenovo,Laptops,22
+978,Analista de Datos / Desarrollador IA,9000.17,0.74,HP,Laptops,10
+979,Diseñador Gráfico & Multimedia,3197.34,0.35,Dell,Laptops,6
+980,Gamer Entusiasta eSports Trujillo,5494.39,0.83,Dell,Laptops,18
+981,Gestor PYME Retail / Ofimática,2714.63,0.64,Logitech,Procesadores,9
+982,Arquitecto CAD / Renderizado 3D Lumion,10223.34,0.83,MSI,Periféricos,14
+983,Gestor PYME Retail / Ofimática,1839.09,0.39,Intel,Memorias RAM,4
+984,Analista de Datos / Desarrollador IA,5614.88,0.96,AMD,Laptops,5
+985,Analista de Datos / Desarrollador IA,10295.36,0.87,Corsair,Monitores,21
+986,Gestor PYME Retail / Ofimática,2092.62,0.57,Intel,Procesadores,12
+987,Arquitecto CAD / Renderizado 3D Lumion,9753.16,0.97,Kingston,Placas Madre,6
+988,Arquitecto CAD / Renderizado 3D Lumion,11884.9,0.81,Kingston,Tarjetas Gráficas,13
+989,Estudiante Ingeniería UNT (Arranque en Frío),2882.96,0.75,Lenovo,Tarjetas Gráficas,0
+990,Analista de Datos / Desarrollador IA,11076.6,0.96,NVIDIA,Procesadores,3
+991,Gestor PYME Retail / Ofimática,2225.19,0.54,AMD,Monitores,3
+992,Gamer Entusiasta eSports Trujillo,5040.89,0.73,Intel,Monitores,13
+993,Arquitecto CAD / Renderizado 3D Lumion,4293.01,0.77,Gigabyte,Tarjetas Gráficas,21
+994,Analista de Datos / Desarrollador IA,8216.84,0.95,NVIDIA,Monitores,21
+995,Estudiante Ingeniería UNT (Arranque en Frío),3530.64,0.67,NVIDIA,Laptops,0
+996,Arquitecto CAD / Renderizado 3D Lumion,5019.22,0.88,Lenovo,Periféricos,14
+997,Arquitecto CAD / Renderizado 3D Lumion,5016.71,0.84,ASUS,Tarjetas Gráficas,16
+998,Gamer Entusiasta eSports Trujillo,10121.75,0.91,Logitech,Laptops,24
+999,Gamer Entusiasta eSports Trujillo,9375.83,0.75,ASUS,Laptops,10
+1000,Arquitecto CAD / Renderizado 3D Lumion,9682.35,0.89,Kingston,Tarjetas Gráficas,14
