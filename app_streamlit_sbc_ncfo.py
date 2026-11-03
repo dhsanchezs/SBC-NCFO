@@ -195,7 +195,7 @@ if seccion == "0. Prototipo Interactivo E-commerce (UI/UX)":
 # ==============================================================================
 # SECCIÓN 1: OBJETIVO ESPECÍFICO 1 (DATASET Y ONTOLOGÍA)
 # ==============================================================================
-elif seccion == "1. Obj. Específico 1: Dataset y Ontología OWL 2":
+elif seccion == "1. Dataset y Ontología OWL 2":
     st.subheader("Sección V-A: Construcción, Preprocesamiento y Descripción Final del Dataset")
     st.markdown(
         "**Logro del Objetivo Específico 1:** *Construir un dataset estandarizado de comercio electrónico "
@@ -237,7 +237,7 @@ elif seccion == "1. Obj. Específico 1: Dataset y Ontología OWL 2":
 # ==============================================================================
 # SECCIÓN 2: OBJETIVO ESPECÍFICO 2 (ARQUITECTURA NCFO)
 # ==============================================================================
-elif seccion == "2. Obj. Específico 2: Arquitectura Híbrida NCFO":
+elif seccion == "2. Arquitectura Híbrida NCFO":
     st.subheader("Sección V-B: Configuración de la Máquina de Aprendizaje Híbrida NCFO")
     st.markdown(
         "**Logro del Objetivo Específico 2:** *Configurar la arquitectura topológica e hiperparámetros "
@@ -298,7 +298,7 @@ elif seccion == "2. Obj. Específico 2: Arquitectura Híbrida NCFO":
 # ==============================================================================
 # SECCIÓN 3: OBJETIVO ESPECÍFICO 3 (CÓDIGO PYTHON Y ENTRENAMIENTO)
 # ==============================================================================
-elif seccion == "3. Obj. Específico 3: Entrenamiento y Código Python":
+elif seccion == "3. Entrenamiento y Código Python":
     st.subheader("Sección V-C: Programa que Entrena y Valida la Máquina de Aprendizaje")
     st.markdown(
         "**Logro del Objetivo Específico 3:** *Desarrollar el programa computacional en lenguaje Python "
@@ -320,7 +320,7 @@ elif seccion == "3. Obj. Específico 3: Entrenamiento y Código Python":
             df_norm = (df_inter[atributos_uf].head(8) - df_inter[atributos_uf].min()) / (df_inter[atributos_uf].max() - df_inter[atributos_uf].min())
             st.dataframe(df_norm, use_container_width=True)
 
-    st.markdown("#### Código Fuente Completo (Listado 1 del Informe IEEE)")
+    st.markdown("#### Código Fuente Completo")
     with open(__file__, "r", encoding="utf-8") as f:
         pass
     st.code("""# Extracto clave del Listado 1 (Entrenamiento y Validación NCFO)
@@ -340,7 +340,7 @@ y_pred_final = ((prob_pred >= 0.50) & filtro_logico_owl).astype(int)""", languag
 # ==============================================================================
 # SECCIÓN 4: OBJETIVO ESPECÍFICO 4 (MATRIZ DE CONFUSIÓN Y MÉTRICAS)
 # ==============================================================================
-elif seccion == "4. Obj. Específico 4: Matriz de Confusión y Métricas":
+elif seccion == "4. Matriz de Confusión y Métricas":
     st.subheader("Sección V-D: Indicadores de Evaluación, Matriz de Confusión y Pruebas UI/UX")
     st.markdown(
         "**Logro del Objetivo Específico 4:** *Evaluar el rendimiento integral del sistema inteligente "
