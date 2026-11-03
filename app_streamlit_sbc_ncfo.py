@@ -272,8 +272,16 @@ elif seccion == "🕸️ 2. Obj. Específico 2: Arquitectura Híbrida NCFO":
         )
 
     st.markdown("#### 🔗 Capa de Fusión (`concatenate_final`) y Hiperparámetros Óptimos")
-    st.latex(r"\Phi_{NCFO}(e_u, e_i, e_{UF}) = \sigma_{sig}\left(\Phi_{GMF}(128) \oplus \Phi_{MLP}(4) \oplus \Phi_{UF}(4)
-ight) \longrightarrow 	ext{136 Neuronas} \longrightarrow 	ext{Salida Sigmoide } \hat{y}_{u,i} \in [0,1]")
+    st.latex(r"""
+    \Phi_{NCFO}(e_u, e_i, e_{UF}) =
+    \sigma_{sig}\left(
+    \Phi_{GMF}(128) \oplus
+    \Phi_{MLP}(4) \oplus
+    \Phi_{UF}(4)
+    \right)
+    \longrightarrow 136 \text{ Neuronas}
+    \longrightarrow \text{Salida Sigmoide } \hat{y}_{u,i} \in [0,1]
+    """)
 
     df_hiper = pd.DataFrame({
         "Parámetro de Configuración": [
